@@ -8,4 +8,6 @@ RUN pip install -r requirements.txt
 
 COPY app.py .
 
+COPY MOCK_DATA.json .
+
 CMD python app.py
