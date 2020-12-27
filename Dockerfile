@@ -1,13 +1,10 @@
-FROM python:3.7-slim
+FROM python:3.9-slim
 
-WORKDIR /usr/src/app
-
+WORKDIR /app
 COPY requirements.txt .
-
 RUN pip install -r requirements.txt
 
-COPY app.py .
+COPY src src/
+COPY main.py .
 
-COPY MOCK_DATA.json .
-
-CMD python app.py
+CMD python main.py

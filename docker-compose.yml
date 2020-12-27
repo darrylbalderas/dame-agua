@@ -1,18 +1,15 @@
-version: '3.5'
+version: "3.5"
 services:
-  sensor:
-    build:
-      context: ./sensor
-    hostname: sensor
-    container_name: sensor
-    depends_on:
-      - influx
-    ports:
-      - 8080:8080
-    tty: true
+  # sensor:
+  #   build: .
+  #   container_name: sensor
+  #   depends_on:
+  #     - influx
+  #   ports:
+  #     - 8080:8080
   influx:
     hostname: influx
     container_name: influx
     ports:
       - 8086:8086
-    image: influxdb:1.7
+    image: influxdb:1.8

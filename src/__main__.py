@@ -10,30 +10,26 @@ project_path = Path(__file__).parent
 
 
 def main():
-    with open(Path(project_path, 'MOCK_DATA.json'), 'r') as jsonfile:
+    with open(Path(project_path, 'mock_data.json'), 'r') as jsonfile:
         mock_data = json.load(jsonfile)
 
-    payloads = cycle(mock_data)
+    # TODO: Create a config class to handle reading environment variables
 
-    database = 'plants'
+    database = 'house-plants'
+    measurement = 'monitoring'
 
     client = InfluxDBClient(host='localhost', port=8086, database=database)
     client.create_database(database)
 
-    for p in payloads:
+    for data in cycle(mock_data):
         json_body = [{
-            "measurement": "tropical",
-            "tags": {
-                "environment": "development"
-            },
+            "measurement": measurement,
+            "tags": {},
             "time": str(arrow.utcnow()),
-            "fields": p
+            "fields": data
         }]
         time.sleep(2)
         client.write_points(json_body)
-        result = client.query('select * from tropical order by desc limit 1;')
 
-        print(client.get_list_database())
-        print(client.get_list_continuous_queries())
-        print(client.get_list_retention_policies())
-        print(client.get_list_measurements())
+        result = client.query(f'select * from {measurement} order by desc limit 1;')
+        print(result)
