@@ -20,16 +20,14 @@ client = InfluxDBClient(host='localhost', port=8086, database=database)
 client.create_database(database)
 
 for p in payloads:
-    json_body = [
-        {
-            "measurement": "tropical",
-            "tags": {
-                "environment": "development"
-            },
-            "time": str(arrow.utcnow()),
-            "fields": p
-        }
-    ]
+    json_body = [{
+        "measurement": "tropical",
+        "tags": {
+            "environment": "development"
+        },
+        "time": str(arrow.utcnow()),
+        "fields": p
+    }]
     time.sleep(2)
     client.write_points(json_body)
     result = client.query('select * from tropical order by desc limit 1;')

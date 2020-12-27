@@ -1,0 +1,5002 @@
+[
+  {
+    "water_level": 4.9826886959,
+    "ph_level": 4.3355761875,
+    "soil_level": 2.9695544413
+  },
+  {
+    "water_level": 4.1636180581,
+    "ph_level": 4.1854800182,
+    "soil_level": 2.6218367134
+  },
+  {
+    "water_level": 1.8298999114,
+    "ph_level": 4.1855179758,
+    "soil_level": 2.5924299303
+  },
+  {
+    "water_level": 0.923175888,
+    "ph_level": 2.8073557655,
+    "soil_level": 2.1021337681
+  },
+  {
+    "water_level": 3.1616920629,
+    "ph_level": 1.3127587545,
+    "soil_level": 1.2042570297
+  },
+  {
+    "water_level": 0.712343553,
+    "ph_level": 0.349153649,
+    "soil_level": 3.2035161399
+  },
+  {
+    "water_level": 1.6278917059,
+    "ph_level": 4.5653909945,
+    "soil_level": 2.0465196338
+  },
+  {
+    "water_level": 3.252728012,
+    "ph_level": 0.1533108292,
+    "soil_level": 1.0511097309
+  },
+  {
+    "water_level": 0.5574912977,
+    "ph_level": 1.1132086361,
+    "soil_level": 0.731045683
+  },
+  {
+    "water_level": 0.0650590255,
+    "ph_level": 1.1372975597,
+    "soil_level": 4.8333355997
+  },
+  {
+    "water_level": 2.7707363989,
+    "ph_level": 2.5252722641,
+    "soil_level": 3.6126385406
+  },
+  {
+    "water_level": 0.7582991222,
+    "ph_level": 2.3568962116,
+    "soil_level": 1.7503642042
+  },
+  {
+    "water_level": 1.4866101629,
+    "ph_level": 2.3675284629,
+    "soil_level": 4.7287395634
+  },
+  {
+    "water_level": 0.5669525296,
+    "ph_level": 1.9874358001,
+    "soil_level": 0.1621918468
+  },
+  {
+    "water_level": 3.4790627644,
+    "ph_level": 1.1401043493,
+    "soil_level": 4.4973707249
+  },
+  {
+    "water_level": 0.8249324205,
+    "ph_level": 2.1086329364,
+    "soil_level": 1.6271112191
+  },
+  {
+    "water_level": 2.1261673431,
+    "ph_level": 2.8616799076,
+    "soil_level": 1.9152054882
+  },
+  {
+    "water_level": 2.7620235446,
+    "ph_level": 4.5636829594,
+    "soil_level": 1.6997339173
+  },
+  {
+    "water_level": 1.7808562911,
+    "ph_level": 0.1897181121,
+    "soil_level": 2.7955842841
+  },
+  {
+    "water_level": 3.3339895075,
+    "ph_level": 4.7550962579,
+    "soil_level": 4.8600667397
+  },
+  {
+    "water_level": 2.17323523,
+    "ph_level": 4.2726766722,
+    "soil_level": 1.9636771463
+  },
+  {
+    "water_level": 3.9038641048,
+    "ph_level": 1.0518273564,
+    "soil_level": 2.760625304
+  },
+  {
+    "water_level": 4.5179850266,
+    "ph_level": 4.3145041858,
+    "soil_level": 3.4494280989
+  },
+  {
+    "water_level": 0.690719175,
+    "ph_level": 2.7437362511,
+    "soil_level": 2.2997220637
+  },
+  {
+    "water_level": 2.56190685,
+    "ph_level": 0.5454394791,
+    "soil_level": 3.7200730765
+  },
+  {
+    "water_level": 0.5771043657,
+    "ph_level": 2.9353111884,
+    "soil_level": 0.7648239765
+  },
+  {
+    "water_level": 2.2186347279,
+    "ph_level": 1.0728835425,
+    "soil_level": 3.7790843005
+  },
+  {
+    "water_level": 0.4497342593,
+    "ph_level": 3.1854856825,
+    "soil_level": 0.1864603653
+  },
+  {
+    "water_level": 3.7112897121,
+    "ph_level": 3.2731125234,
+    "soil_level": 0.7045857448
+  },
+  {
+    "water_level": 0.3399492604,
+    "ph_level": 0.3258980506,
+    "soil_level": 2.3652147609
+  },
+  {
+    "water_level": 0.8968673723,
+    "ph_level": 4.0693309431,
+    "soil_level": 1.5437107023
+  },
+  {
+    "water_level": 2.1601930302,
+    "ph_level": 3.9929044216,
+    "soil_level": 3.7894279017
+  },
+  {
+    "water_level": 2.3699662846,
+    "ph_level": 2.0360266638,
+    "soil_level": 3.798068039
+  },
+  {
+    "water_level": 3.2639261904,
+    "ph_level": 0.6432700953,
+    "soil_level": 1.6211453561
+  },
+  {
+    "water_level": 3.1607531028,
+    "ph_level": 4.7646320204,
+    "soil_level": 2.4574940018
+  },
+  {
+    "water_level": 2.6074173462,
+    "ph_level": 1.1795246344,
+    "soil_level": 0.0707618318
+  },
+  {
+    "water_level": 1.219378327,
+    "ph_level": 0.6035085688,
+    "soil_level": 0.2934572681
+  },
+  {
+    "water_level": 0.4214318682,
+    "ph_level": 0.6986270341,
+    "soil_level": 0.8915620853
+  },
+  {
+    "water_level": 3.3868726716,
+    "ph_level": 4.2108889011,
+    "soil_level": 1.5663412207
+  },
+  {
+    "water_level": 4.0548868637,
+    "ph_level": 0.4886963896,
+    "soil_level": 2.4401046438
+  },
+  {
+    "water_level": 2.7921130828,
+    "ph_level": 1.7447089116,
+    "soil_level": 4.1985777565
+  },
+  {
+    "water_level": 3.8760956883,
+    "ph_level": 2.182564297,
+    "soil_level": 2.8003006744
+  },
+  {
+    "water_level": 3.6989835744,
+    "ph_level": 4.7914477034,
+    "soil_level": 3.2464772798
+  },
+  {
+    "water_level": 4.3668332308,
+    "ph_level": 3.5449539736,
+    "soil_level": 1.9833867852
+  },
+  {
+    "water_level": 2.2592711755,
+    "ph_level": 1.5798656002,
+    "soil_level": 4.9952975532
+  },
+  {
+    "water_level": 3.4907346022,
+    "ph_level": 2.0425197649,
+    "soil_level": 3.2633978268
+  },
+  {
+    "water_level": 4.9215546914,
+    "ph_level": 0.0873542544,
+    "soil_level": 0.3925741547
+  },
+  {
+    "water_level": 3.0267149019,
+    "ph_level": 3.7134946325,
+    "soil_level": 0.2350900384
+  },
+  {
+    "water_level": 4.8084478455,
+    "ph_level": 1.7371273575,
+    "soil_level": 3.4320493594
+  },
+  {
+    "water_level": 1.5947135665,
+    "ph_level": 4.3168237129,
+    "soil_level": 0.0302798987
+  },
+  {
+    "water_level": 4.6424284428,
+    "ph_level": 2.303090148,
+    "soil_level": 4.2439902793
+  },
+  {
+    "water_level": 4.4933021934,
+    "ph_level": 0.5025843707,
+    "soil_level": 2.0766129439
+  },
+  {
+    "water_level": 0.3498054324,
+    "ph_level": 3.7303205403,
+    "soil_level": 1.3772485547
+  },
+  {
+    "water_level": 2.6948378616,
+    "ph_level": 3.2788148686,
+    "soil_level": 2.8344967152
+  },
+  {
+    "water_level": 4.1429949959,
+    "ph_level": 4.2839852562,
+    "soil_level": 1.3404314084
+  },
+  {
+    "water_level": 3.4118836803,
+    "ph_level": 3.6408772852,
+    "soil_level": 3.7342569809
+  },
+  {
+    "water_level": 0.6216692632,
+    "ph_level": 3.9498118515,
+    "soil_level": 3.8241775497
+  },
+  {
+    "water_level": 1.7777753824,
+    "ph_level": 0.0652465804,
+    "soil_level": 4.4250337952
+  },
+  {
+    "water_level": 4.2591341531,
+    "ph_level": 0.9641878212,
+    "soil_level": 4.7014245101
+  },
+  {
+    "water_level": 1.8626960036,
+    "ph_level": 0.8946690486,
+    "soil_level": 2.2969277343
+  },
+  {
+    "water_level": 4.490568285,
+    "ph_level": 2.2269875889,
+    "soil_level": 4.9742642674
+  },
+  {
+    "water_level": 3.2145898836,
+    "ph_level": 1.2246248223,
+    "soil_level": 0.4333706929
+  },
+  {
+    "water_level": 4.31312056,
+    "ph_level": 1.681828852,
+    "soil_level": 2.1938254214
+  },
+  {
+    "water_level": 4.2755635646,
+    "ph_level": 4.6012782295,
+    "soil_level": 2.6032416012
+  },
+  {
+    "water_level": 4.4667076537,
+    "ph_level": 3.531958092,
+    "soil_level": 2.1585412543
+  },
+  {
+    "water_level": 0.1981075561,
+    "ph_level": 1.107638867,
+    "soil_level": 2.6332850061
+  },
+  {
+    "water_level": 2.6207237252,
+    "ph_level": 2.9200093596,
+    "soil_level": 1.3038950882
+  },
+  {
+    "water_level": 0.5919759948,
+    "ph_level": 1.0207901644,
+    "soil_level": 0.0208011055
+  },
+  {
+    "water_level": 4.0564375528,
+    "ph_level": 0.9904896373,
+    "soil_level": 1.8264325198
+  },
+  {
+    "water_level": 0.7858583734,
+    "ph_level": 1.4328227743,
+    "soil_level": 1.9546293569
+  },
+  {
+    "water_level": 2.5206221461,
+    "ph_level": 2.3200057569,
+    "soil_level": 3.5622384815
+  },
+  {
+    "water_level": 0.4507297952,
+    "ph_level": 4.7908525302,
+    "soil_level": 0.6963252297
+  },
+  {
+    "water_level": 0.8591355588,
+    "ph_level": 4.3657277323,
+    "soil_level": 4.5838186587
+  },
+  {
+    "water_level": 0.0421503595,
+    "ph_level": 2.2242346599,
+    "soil_level": 1.0933847447
+  },
+  {
+    "water_level": 0.1759100128,
+    "ph_level": 4.8794603079,
+    "soil_level": 2.6671852946
+  },
+  {
+    "water_level": 3.5419810531,
+    "ph_level": 4.1530634434,
+    "soil_level": 0.8257713165
+  },
+  {
+    "water_level": 2.0493924917,
+    "ph_level": 1.9431281863,
+    "soil_level": 2.5564490944
+  },
+  {
+    "water_level": 2.7114969232,
+    "ph_level": 1.7288672329,
+    "soil_level": 4.9279719701
+  },
+  {
+    "water_level": 3.9682547671,
+    "ph_level": 2.6540720613,
+    "soil_level": 1.1320840067
+  },
+  {
+    "water_level": 3.4996963203,
+    "ph_level": 4.9431462905,
+    "soil_level": 2.1063839056
+  },
+  {
+    "water_level": 3.1201613612,
+    "ph_level": 0.4147301114,
+    "soil_level": 1.6512019502
+  },
+  {
+    "water_level": 0.8320009488,
+    "ph_level": 1.8650274161,
+    "soil_level": 2.6479974087
+  },
+  {
+    "water_level": 2.6811901055,
+    "ph_level": 4.9328813336,
+    "soil_level": 4.9311377255
+  },
+  {
+    "water_level": 1.1013899336,
+    "ph_level": 2.9470682227,
+    "soil_level": 4.4274319015
+  },
+  {
+    "water_level": 0.2265721315,
+    "ph_level": 3.7672480123,
+    "soil_level": 4.7741896808
+  },
+  {
+    "water_level": 4.5909408838,
+    "ph_level": 1.5634001211,
+    "soil_level": 3.6213789946
+  },
+  {
+    "water_level": 2.955000833,
+    "ph_level": 3.0159834969,
+    "soil_level": 2.1206976298
+  },
+  {
+    "water_level": 3.7727354985,
+    "ph_level": 2.7151672575,
+    "soil_level": 1.3465286603
+  },
+  {
+    "water_level": 4.737933898,
+    "ph_level": 3.5984359558,
+    "soil_level": 0.584012171
+  },
+  {
+    "water_level": 0.5813226924,
+    "ph_level": 1.9156080267,
+    "soil_level": 3.5539498701
+  },
+  {
+    "water_level": 1.7774855454,
+    "ph_level": 4.2356879844,
+    "soil_level": 3.9645874005
+  },
+  {
+    "water_level": 4.4673395599,
+    "ph_level": 3.5045504112,
+    "soil_level": 3.5324443974
+  },
+  {
+    "water_level": 1.2009204704,
+    "ph_level": 4.3291761526,
+    "soil_level": 3.1170906923
+  },
+  {
+    "water_level": 0.7073934922,
+    "ph_level": 3.6842654838,
+    "soil_level": 0.0977629636
+  },
+  {
+    "water_level": 0.1078234539,
+    "ph_level": 0.5209661321,
+    "soil_level": 1.3761531867
+  },
+  {
+    "water_level": 4.1387835926,
+    "ph_level": 4.5196663579,
+    "soil_level": 4.8048229965
+  },
+  {
+    "water_level": 4.5417751841,
+    "ph_level": 2.3313966323,
+    "soil_level": 1.7242430336
+  },
+  {
+    "water_level": 3.5706899012,
+    "ph_level": 2.6457203346,
+    "soil_level": 3.0895221527
+  },
+  {
+    "water_level": 1.8174595423,
+    "ph_level": 0.7958369914,
+    "soil_level": 1.631423088
+  },
+  {
+    "water_level": 0.6851648434,
+    "ph_level": 0.9215456551,
+    "soil_level": 0.3081647819
+  },
+  {
+    "water_level": 4.8598444599,
+    "ph_level": 0.9303087239,
+    "soil_level": 0.6375396918
+  },
+  {
+    "water_level": 1.8311716532,
+    "ph_level": 3.2560373138,
+    "soil_level": 4.9028066088
+  },
+  {
+    "water_level": 1.7717143538,
+    "ph_level": 3.1521013927,
+    "soil_level": 2.6142112714
+  },
+  {
+    "water_level": 3.1100025197,
+    "ph_level": 2.8341797226,
+    "soil_level": 4.4884057909
+  },
+  {
+    "water_level": 2.4857943359,
+    "ph_level": 4.640452841,
+    "soil_level": 1.5279099663
+  },
+  {
+    "water_level": 0.51807653,
+    "ph_level": 0.0767927627,
+    "soil_level": 2.0829851832
+  },
+  {
+    "water_level": 0.5143394382,
+    "ph_level": 2.7562122763,
+    "soil_level": 1.7820321282
+  },
+  {
+    "water_level": 1.7048910352,
+    "ph_level": 2.366136371,
+    "soil_level": 3.289597252
+  },
+  {
+    "water_level": 1.9368433185,
+    "ph_level": 3.6185156273,
+    "soil_level": 4.911166944
+  },
+  {
+    "water_level": 4.3366206799,
+    "ph_level": 0.4965474795,
+    "soil_level": 3.9875121534
+  },
+  {
+    "water_level": 4.3317895601,
+    "ph_level": 4.9596428894,
+    "soil_level": 1.3271105558
+  },
+  {
+    "water_level": 0.3314344562,
+    "ph_level": 2.8264058806,
+    "soil_level": 3.4368606699
+  },
+  {
+    "water_level": 1.3603699979,
+    "ph_level": 3.5384392556,
+    "soil_level": 2.4790872177
+  },
+  {
+    "water_level": 4.5575208856,
+    "ph_level": 1.3244303042,
+    "soil_level": 4.2290218468
+  },
+  {
+    "water_level": 3.4032023428,
+    "ph_level": 4.2353881862,
+    "soil_level": 2.9746004945
+  },
+  {
+    "water_level": 0.4252945153,
+    "ph_level": 4.8205492427,
+    "soil_level": 2.3413245419
+  },
+  {
+    "water_level": 0.3211388885,
+    "ph_level": 4.0360237961,
+    "soil_level": 0.0515437499
+  },
+  {
+    "water_level": 3.9567382351,
+    "ph_level": 0.7863580073,
+    "soil_level": 1.6973276796
+  },
+  {
+    "water_level": 3.5506345042,
+    "ph_level": 0.1076653581,
+    "soil_level": 0.1663524175
+  },
+  {
+    "water_level": 4.1448271705,
+    "ph_level": 1.0926445892,
+    "soil_level": 0.9713299477
+  },
+  {
+    "water_level": 4.8663620905,
+    "ph_level": 2.7539160476,
+    "soil_level": 2.5472282121
+  },
+  {
+    "water_level": 1.5910231552,
+    "ph_level": 3.2850751793,
+    "soil_level": 1.8799384497
+  },
+  {
+    "water_level": 2.8745999859,
+    "ph_level": 1.5511985162,
+    "soil_level": 2.7330973698
+  },
+  {
+    "water_level": 1.461855728,
+    "ph_level": 3.2667291503,
+    "soil_level": 1.1643590436
+  },
+  {
+    "water_level": 4.0314677415,
+    "ph_level": 0.6534906981,
+    "soil_level": 0.4681789328
+  },
+  {
+    "water_level": 0.8853258815,
+    "ph_level": 1.937730967,
+    "soil_level": 2.5449529239
+  },
+  {
+    "water_level": 4.2017626668,
+    "ph_level": 1.4012012542,
+    "soil_level": 4.9964969538
+  },
+  {
+    "water_level": 4.8597363647,
+    "ph_level": 0.1164808056,
+    "soil_level": 0.638364667
+  },
+  {
+    "water_level": 2.0033475878,
+    "ph_level": 2.8839559772,
+    "soil_level": 2.0115315825
+  },
+  {
+    "water_level": 3.3531483759,
+    "ph_level": 2.4303629398,
+    "soil_level": 0.4786806285
+  },
+  {
+    "water_level": 2.560371267,
+    "ph_level": 4.9791707008,
+    "soil_level": 2.1904189404
+  },
+  {
+    "water_level": 4.4040174781,
+    "ph_level": 3.5013053791,
+    "soil_level": 3.1176289737
+  },
+  {
+    "water_level": 4.2897841872,
+    "ph_level": 0.2454590637,
+    "soil_level": 3.7861386772
+  },
+  {
+    "water_level": 4.5535601179,
+    "ph_level": 3.3737491884,
+    "soil_level": 4.1086183275
+  },
+  {
+    "water_level": 1.4087666113,
+    "ph_level": 0.655873768,
+    "soil_level": 1.001272216
+  },
+  {
+    "water_level": 1.6440283615,
+    "ph_level": 1.0111843861,
+    "soil_level": 0.4792254068
+  },
+  {
+    "water_level": 1.5836447028,
+    "ph_level": 0.3660876659,
+    "soil_level": 4.4765492918
+  },
+  {
+    "water_level": 0.0365867049,
+    "ph_level": 1.1049409283,
+    "soil_level": 2.4746758407
+  },
+  {
+    "water_level": 3.9882122655,
+    "ph_level": 1.36603227,
+    "soil_level": 0.5261947537
+  },
+  {
+    "water_level": 0.1178569924,
+    "ph_level": 2.6663068375,
+    "soil_level": 1.3098440057
+  },
+  {
+    "water_level": 3.9587149301,
+    "ph_level": 0.2746328196,
+    "soil_level": 0.7140995169
+  },
+  {
+    "water_level": 3.384179856,
+    "ph_level": 2.9963293535,
+    "soil_level": 2.9146847203
+  },
+  {
+    "water_level": 3.866297346,
+    "ph_level": 2.106038945,
+    "soil_level": 0.2027155076
+  },
+  {
+    "water_level": 3.6807549355,
+    "ph_level": 2.0477934396,
+    "soil_level": 0.6708693964
+  },
+  {
+    "water_level": 2.1463983229,
+    "ph_level": 3.5888903448,
+    "soil_level": 2.2678106356
+  },
+  {
+    "water_level": 1.6124000085,
+    "ph_level": 0.4503178012,
+    "soil_level": 1.2751902048
+  },
+  {
+    "water_level": 0.0721558236,
+    "ph_level": 3.0665950487,
+    "soil_level": 0.6170981715
+  },
+  {
+    "water_level": 3.2957461022,
+    "ph_level": 0.1332328878,
+    "soil_level": 0.3409928778
+  },
+  {
+    "water_level": 1.1998277616,
+    "ph_level": 3.9955591037,
+    "soil_level": 0.7213021666
+  },
+  {
+    "water_level": 4.7873507294,
+    "ph_level": 2.3432442628,
+    "soil_level": 1.7343366175
+  },
+  {
+    "water_level": 2.2820327142,
+    "ph_level": 0.3523636133,
+    "soil_level": 3.2035423521
+  },
+  {
+    "water_level": 4.980527331,
+    "ph_level": 0.2985991043,
+    "soil_level": 0.0608322703
+  },
+  {
+    "water_level": 4.1581395807,
+    "ph_level": 1.7621458626,
+    "soil_level": 2.2293301181
+  },
+  {
+    "water_level": 2.9211964129,
+    "ph_level": 0.1236943151,
+    "soil_level": 0.47510491
+  },
+  {
+    "water_level": 1.6407094741,
+    "ph_level": 0.6948658709,
+    "soil_level": 3.6027837688
+  },
+  {
+    "water_level": 0.2437301811,
+    "ph_level": 0.2009322337,
+    "soil_level": 1.2874733289
+  },
+  {
+    "water_level": 4.2397342889,
+    "ph_level": 2.2654875637,
+    "soil_level": 3.7103354073
+  },
+  {
+    "water_level": 3.7456424023,
+    "ph_level": 3.9763063367,
+    "soil_level": 3.8301905731
+  },
+  {
+    "water_level": 0.9333955904,
+    "ph_level": 0.6875461643,
+    "soil_level": 4.2413137167
+  },
+  {
+    "water_level": 3.6815231169,
+    "ph_level": 2.8983998856,
+    "soil_level": 3.9442089096
+  },
+  {
+    "water_level": 3.1424739331,
+    "ph_level": 1.7555322648,
+    "soil_level": 4.7674246255
+  },
+  {
+    "water_level": 4.9051927892,
+    "ph_level": 3.9425268127,
+    "soil_level": 1.8883605715
+  },
+  {
+    "water_level": 3.5085913674,
+    "ph_level": 4.0403021785,
+    "soil_level": 3.0749675986
+  },
+  {
+    "water_level": 0.723902134,
+    "ph_level": 3.7675923917,
+    "soil_level": 1.612359438
+  },
+  {
+    "water_level": 3.5648651169,
+    "ph_level": 1.390432604,
+    "soil_level": 0.3200258063
+  },
+  {
+    "water_level": 0.1457152965,
+    "ph_level": 2.404255671,
+    "soil_level": 0.1248856751
+  },
+  {
+    "water_level": 1.3493650955,
+    "ph_level": 1.7307019292,
+    "soil_level": 1.851717764
+  },
+  {
+    "water_level": 4.5296823379,
+    "ph_level": 1.2186320591,
+    "soil_level": 3.6022615379
+  },
+  {
+    "water_level": 3.8077404833,
+    "ph_level": 4.1039737369,
+    "soil_level": 0.3172921486
+  },
+  {
+    "water_level": 0.6617175971,
+    "ph_level": 4.7075366329,
+    "soil_level": 4.4082161269
+  },
+  {
+    "water_level": 3.9351369279,
+    "ph_level": 0.4698820872,
+    "soil_level": 4.9555944209
+  },
+  {
+    "water_level": 3.3852583087,
+    "ph_level": 1.5858577332,
+    "soil_level": 1.8895049148
+  },
+  {
+    "water_level": 0.1973093203,
+    "ph_level": 1.3128392943,
+    "soil_level": 4.4056905125
+  },
+  {
+    "water_level": 0.6619944033,
+    "ph_level": 3.2786695321,
+    "soil_level": 1.1948695605
+  },
+  {
+    "water_level": 0.5950297193,
+    "ph_level": 1.6729790672,
+    "soil_level": 1.0700718385
+  },
+  {
+    "water_level": 1.1768919124,
+    "ph_level": 0.09574949,
+    "soil_level": 0.2525084837
+  },
+  {
+    "water_level": 3.8968292015,
+    "ph_level": 0.4753198642,
+    "soil_level": 1.3296213482
+  },
+  {
+    "water_level": 4.4492319868,
+    "ph_level": 1.264180115,
+    "soil_level": 2.0754776177
+  },
+  {
+    "water_level": 2.3765731057,
+    "ph_level": 0.1853013518,
+    "soil_level": 3.3087808306
+  },
+  {
+    "water_level": 0.6013968739,
+    "ph_level": 3.708688724,
+    "soil_level": 4.505534996
+  },
+  {
+    "water_level": 3.5607036331,
+    "ph_level": 0.5903685556,
+    "soil_level": 2.9376839503
+  },
+  {
+    "water_level": 0.6295548295,
+    "ph_level": 1.3968415937,
+    "soil_level": 4.1562908792
+  },
+  {
+    "water_level": 2.512289632,
+    "ph_level": 3.6889382995,
+    "soil_level": 3.8726104352
+  },
+  {
+    "water_level": 1.1779211528,
+    "ph_level": 0.1570974472,
+    "soil_level": 3.589062553
+  },
+  {
+    "water_level": 4.4793056205,
+    "ph_level": 3.7709046338,
+    "soil_level": 1.4005615168
+  },
+  {
+    "water_level": 3.3060338303,
+    "ph_level": 0.2020905792,
+    "soil_level": 4.8109038499
+  },
+  {
+    "water_level": 2.5988930081,
+    "ph_level": 0.9553721124,
+    "soil_level": 4.6084308771
+  },
+  {
+    "water_level": 1.3668601724,
+    "ph_level": 3.3757645258,
+    "soil_level": 3.4452174573
+  },
+  {
+    "water_level": 3.8588197183,
+    "ph_level": 2.2689894368,
+    "soil_level": 3.5261911056
+  },
+  {
+    "water_level": 0.6717601136,
+    "ph_level": 4.0726022198,
+    "soil_level": 0.406043318
+  },
+  {
+    "water_level": 2.6625844607,
+    "ph_level": 0.3153504307,
+    "soil_level": 4.2364439689
+  },
+  {
+    "water_level": 3.5859647957,
+    "ph_level": 2.7235636496,
+    "soil_level": 3.1746134217
+  },
+  {
+    "water_level": 4.0837950583,
+    "ph_level": 4.7347938724,
+    "soil_level": 2.9278155756
+  },
+  {
+    "water_level": 4.0397833002,
+    "ph_level": 1.5661818739,
+    "soil_level": 0.8439414256
+  },
+  {
+    "water_level": 3.1834978927,
+    "ph_level": 1.1397901894,
+    "soil_level": 0.15786322
+  },
+  {
+    "water_level": 2.732413614,
+    "ph_level": 3.3848423373,
+    "soil_level": 0.7385775867
+  },
+  {
+    "water_level": 3.014279309,
+    "ph_level": 0.4840368538,
+    "soil_level": 1.7831912214
+  },
+  {
+    "water_level": 4.28832707,
+    "ph_level": 3.9221661308,
+    "soil_level": 0.2084616245
+  },
+  {
+    "water_level": 2.1325952921,
+    "ph_level": 0.0178754953,
+    "soil_level": 2.0680989259
+  },
+  {
+    "water_level": 3.6349045682,
+    "ph_level": 0.1236699924,
+    "soil_level": 0.2169105038
+  },
+  {
+    "water_level": 1.2881802337,
+    "ph_level": 3.4914900714,
+    "soil_level": 2.8063354318
+  },
+  {
+    "water_level": 4.0738244025,
+    "ph_level": 0.4063186646,
+    "soil_level": 2.9440384045
+  },
+  {
+    "water_level": 3.5956930647,
+    "ph_level": 0.9888162132,
+    "soil_level": 1.1245122869
+  },
+  {
+    "water_level": 3.040494956,
+    "ph_level": 3.7953018225,
+    "soil_level": 1.6986602586
+  },
+  {
+    "water_level": 0.2462780211,
+    "ph_level": 1.535610087,
+    "soil_level": 4.1284774957
+  },
+  {
+    "water_level": 3.006883239,
+    "ph_level": 2.2166162249,
+    "soil_level": 1.7482012341
+  },
+  {
+    "water_level": 3.7277930588,
+    "ph_level": 0.4299774593,
+    "soil_level": 1.8681005434
+  },
+  {
+    "water_level": 2.8820304089,
+    "ph_level": 4.7366152905,
+    "soil_level": 3.6568392624
+  },
+  {
+    "water_level": 1.8612080706,
+    "ph_level": 2.0253132813,
+    "soil_level": 3.5441762748
+  },
+  {
+    "water_level": 0.6958505731,
+    "ph_level": 3.6776776289,
+    "soil_level": 0.1503615173
+  },
+  {
+    "water_level": 1.9372855425,
+    "ph_level": 3.6392407716,
+    "soil_level": 2.7961275076
+  },
+  {
+    "water_level": 3.2454381013,
+    "ph_level": 2.4701163158,
+    "soil_level": 4.0550420445
+  },
+  {
+    "water_level": 4.6467705157,
+    "ph_level": 2.7777492558,
+    "soil_level": 4.315212011
+  },
+  {
+    "water_level": 1.025655218,
+    "ph_level": 0.471467572,
+    "soil_level": 1.9002307048
+  },
+  {
+    "water_level": 3.9123878045,
+    "ph_level": 2.0065252673,
+    "soil_level": 1.3962598583
+  },
+  {
+    "water_level": 1.7127323539,
+    "ph_level": 2.959832364,
+    "soil_level": 2.6914559672
+  },
+  {
+    "water_level": 1.2498083184,
+    "ph_level": 0.6634327806,
+    "soil_level": 1.3914524274
+  },
+  {
+    "water_level": 0.7798716571,
+    "ph_level": 3.9783119636,
+    "soil_level": 3.418555196
+  },
+  {
+    "water_level": 3.7229318936,
+    "ph_level": 3.6522161682,
+    "soil_level": 2.2187864195
+  },
+  {
+    "water_level": 3.3800425975,
+    "ph_level": 3.8661280874,
+    "soil_level": 4.5829390845
+  },
+  {
+    "water_level": 4.1594862032,
+    "ph_level": 3.000277405,
+    "soil_level": 4.6726599908
+  },
+  {
+    "water_level": 0.930240343,
+    "ph_level": 4.8553602644,
+    "soil_level": 1.1886501812
+  },
+  {
+    "water_level": 1.5250960938,
+    "ph_level": 0.0574302762,
+    "soil_level": 0.5909231187
+  },
+  {
+    "water_level": 0.9752663893,
+    "ph_level": 3.0870581899,
+    "soil_level": 3.533810375
+  },
+  {
+    "water_level": 0.7378462687,
+    "ph_level": 2.1662064474,
+    "soil_level": 3.7736941197
+  },
+  {
+    "water_level": 3.9596504259,
+    "ph_level": 2.1222088637,
+    "soil_level": 0.9438554816
+  },
+  {
+    "water_level": 2.111433059,
+    "ph_level": 4.9894301145,
+    "soil_level": 4.1587717363
+  },
+  {
+    "water_level": 2.1598966484,
+    "ph_level": 3.5411118994,
+    "soil_level": 4.7801449041
+  },
+  {
+    "water_level": 4.0635536321,
+    "ph_level": 0.661264252,
+    "soil_level": 0.4270140812
+  },
+  {
+    "water_level": 2.4437296908,
+    "ph_level": 1.0158581127,
+    "soil_level": 4.4057075005
+  },
+  {
+    "water_level": 0.7194681554,
+    "ph_level": 3.2665948017,
+    "soil_level": 4.6587364201
+  },
+  {
+    "water_level": 1.4071495155,
+    "ph_level": 1.2931131155,
+    "soil_level": 1.3898594603
+  },
+  {
+    "water_level": 1.4656552508,
+    "ph_level": 2.6812315408,
+    "soil_level": 4.5804156916
+  },
+  {
+    "water_level": 3.5620514436,
+    "ph_level": 2.2689660002,
+    "soil_level": 3.5606460711
+  },
+  {
+    "water_level": 3.9985957109,
+    "ph_level": 1.5884615978,
+    "soil_level": 1.6284305546
+  },
+  {
+    "water_level": 2.9721091553,
+    "ph_level": 3.6470559467,
+    "soil_level": 1.84389889
+  },
+  {
+    "water_level": 0.3419208279,
+    "ph_level": 4.4780601355,
+    "soil_level": 2.5455834293
+  },
+  {
+    "water_level": 0.2482558471,
+    "ph_level": 0.5329789834,
+    "soil_level": 4.5581634393
+  },
+  {
+    "water_level": 0.3597644114,
+    "ph_level": 1.136964781,
+    "soil_level": 4.3720361316
+  },
+  {
+    "water_level": 4.4167501213,
+    "ph_level": 3.2375194834,
+    "soil_level": 4.4178616708
+  },
+  {
+    "water_level": 2.1111349665,
+    "ph_level": 0.7182464854,
+    "soil_level": 2.7384855593
+  },
+  {
+    "water_level": 4.0332976155,
+    "ph_level": 1.1718261456,
+    "soil_level": 4.3379154264
+  },
+  {
+    "water_level": 4.9473949581,
+    "ph_level": 4.9483874627,
+    "soil_level": 2.4111532513
+  },
+  {
+    "water_level": 1.5929634938,
+    "ph_level": 0.2566681222,
+    "soil_level": 0.7377253268
+  },
+  {
+    "water_level": 3.7065945412,
+    "ph_level": 2.4072899851,
+    "soil_level": 1.2696836282
+  },
+  {
+    "water_level": 1.7238568384,
+    "ph_level": 2.6305954777,
+    "soil_level": 2.0515675211
+  },
+  {
+    "water_level": 2.4640766369,
+    "ph_level": 0.5773976838,
+    "soil_level": 2.3458447874
+  },
+  {
+    "water_level": 3.7573075485,
+    "ph_level": 1.542733971,
+    "soil_level": 3.5117127322
+  },
+  {
+    "water_level": 3.197025982,
+    "ph_level": 3.5028630348,
+    "soil_level": 1.2581674907
+  },
+  {
+    "water_level": 4.9796245837,
+    "ph_level": 2.0613434417,
+    "soil_level": 4.5081599153
+  },
+  {
+    "water_level": 3.1365328757,
+    "ph_level": 1.9836752314,
+    "soil_level": 1.3181979894
+  },
+  {
+    "water_level": 1.6648950777,
+    "ph_level": 1.1056178696,
+    "soil_level": 0.9856854143
+  },
+  {
+    "water_level": 2.1814120213,
+    "ph_level": 2.2934238042,
+    "soil_level": 2.3708835204
+  },
+  {
+    "water_level": 2.3272289555,
+    "ph_level": 3.6180533261,
+    "soil_level": 0.8247469464
+  },
+  {
+    "water_level": 1.8209591476,
+    "ph_level": 1.0342629223,
+    "soil_level": 0.7585567912
+  },
+  {
+    "water_level": 1.2780206653,
+    "ph_level": 1.9097340576,
+    "soil_level": 3.304386467
+  },
+  {
+    "water_level": 3.8093843496,
+    "ph_level": 4.0791871627,
+    "soil_level": 2.6933885777
+  },
+  {
+    "water_level": 4.1802634027,
+    "ph_level": 4.7804822667,
+    "soil_level": 2.0801711639
+  },
+  {
+    "water_level": 1.4307403844,
+    "ph_level": 2.3273894749,
+    "soil_level": 4.1337947222
+  },
+  {
+    "water_level": 3.9090503524,
+    "ph_level": 2.2430891823,
+    "soil_level": 2.3084193597
+  },
+  {
+    "water_level": 1.2231169718,
+    "ph_level": 4.3486894315,
+    "soil_level": 2.2087711225
+  },
+  {
+    "water_level": 3.3898532581,
+    "ph_level": 1.7752708293,
+    "soil_level": 3.620718745
+  },
+  {
+    "water_level": 4.7682378261,
+    "ph_level": 1.5679423086,
+    "soil_level": 2.9852886332
+  },
+  {
+    "water_level": 4.9759461754,
+    "ph_level": 4.4084194141,
+    "soil_level": 3.2803754771
+  },
+  {
+    "water_level": 1.6092249066,
+    "ph_level": 3.2648622727,
+    "soil_level": 3.4972549427
+  },
+  {
+    "water_level": 3.6101468754,
+    "ph_level": 3.819604323,
+    "soil_level": 3.8722803943
+  },
+  {
+    "water_level": 2.675802067,
+    "ph_level": 4.7762954185,
+    "soil_level": 4.5977435472
+  },
+  {
+    "water_level": 4.8260421393,
+    "ph_level": 4.0812759163,
+    "soil_level": 4.9510530559
+  },
+  {
+    "water_level": 4.6167216819,
+    "ph_level": 1.4029997108,
+    "soil_level": 3.8180310987
+  },
+  {
+    "water_level": 0.7354179371,
+    "ph_level": 3.2621815957,
+    "soil_level": 3.2191752175
+  },
+  {
+    "water_level": 0.0125793509,
+    "ph_level": 4.3191441727,
+    "soil_level": 3.423285723
+  },
+  {
+    "water_level": 1.8500035515,
+    "ph_level": 4.757103948,
+    "soil_level": 3.6900919901
+  },
+  {
+    "water_level": 2.9520926738,
+    "ph_level": 4.3774460356,
+    "soil_level": 0.9900978597
+  },
+  {
+    "water_level": 1.7587986711,
+    "ph_level": 4.5138430964,
+    "soil_level": 2.8785075697
+  },
+  {
+    "water_level": 3.2423147854,
+    "ph_level": 4.5728744813,
+    "soil_level": 2.160080017
+  },
+  {
+    "water_level": 4.6140828534,
+    "ph_level": 3.9718519753,
+    "soil_level": 0.2059002654
+  },
+  {
+    "water_level": 2.3256440147,
+    "ph_level": 2.2229056886,
+    "soil_level": 4.5402318805
+  },
+  {
+    "water_level": 1.3216706893,
+    "ph_level": 4.7854936037,
+    "soil_level": 1.8185304795
+  },
+  {
+    "water_level": 0.5477308646,
+    "ph_level": 0.5054126601,
+    "soil_level": 1.5335402352
+  },
+  {
+    "water_level": 0.2195576124,
+    "ph_level": 1.4645665234,
+    "soil_level": 2.9659170078
+  },
+  {
+    "water_level": 3.7875362325,
+    "ph_level": 3.189894505,
+    "soil_level": 1.3313589086
+  },
+  {
+    "water_level": 3.8364646356,
+    "ph_level": 3.282869715,
+    "soil_level": 4.5409458567
+  },
+  {
+    "water_level": 0.2808091914,
+    "ph_level": 4.3632488349,
+    "soil_level": 2.4830230077
+  },
+  {
+    "water_level": 2.3478105675,
+    "ph_level": 1.0639095605,
+    "soil_level": 2.2290255243
+  },
+  {
+    "water_level": 2.9646799261,
+    "ph_level": 1.4136646129,
+    "soil_level": 0.342895951
+  },
+  {
+    "water_level": 3.5052839181,
+    "ph_level": 2.2765832887,
+    "soil_level": 2.4441996458
+  },
+  {
+    "water_level": 1.8495511907,
+    "ph_level": 3.6884099661,
+    "soil_level": 1.7392512151
+  },
+  {
+    "water_level": 3.4264848109,
+    "ph_level": 1.6468034739,
+    "soil_level": 3.1297723313
+  },
+  {
+    "water_level": 4.3081027155,
+    "ph_level": 0.6886119991,
+    "soil_level": 3.6061941567
+  },
+  {
+    "water_level": 4.2634913136,
+    "ph_level": 1.0727204707,
+    "soil_level": 3.0777624293
+  },
+  {
+    "water_level": 2.2781734858,
+    "ph_level": 1.6000967249,
+    "soil_level": 1.236735584
+  },
+  {
+    "water_level": 0.6701340457,
+    "ph_level": 0.3767777753,
+    "soil_level": 1.5873997915
+  },
+  {
+    "water_level": 3.7589135851,
+    "ph_level": 0.6456994422,
+    "soil_level": 0.545557261
+  },
+  {
+    "water_level": 4.5894725507,
+    "ph_level": 2.8308011274,
+    "soil_level": 2.8453883677
+  },
+  {
+    "water_level": 3.3069810524,
+    "ph_level": 1.4889600006,
+    "soil_level": 0.2249848491
+  },
+  {
+    "water_level": 2.1398656326,
+    "ph_level": 2.9194410683,
+    "soil_level": 2.6946817988
+  },
+  {
+    "water_level": 0.5963595873,
+    "ph_level": 4.734995026,
+    "soil_level": 4.3767793926
+  },
+  {
+    "water_level": 2.3305141483,
+    "ph_level": 0.7864892483,
+    "soil_level": 1.3044814173
+  },
+  {
+    "water_level": 2.0927469522,
+    "ph_level": 2.3383322979,
+    "soil_level": 2.2801487227
+  },
+  {
+    "water_level": 4.284497864,
+    "ph_level": 1.2637635862,
+    "soil_level": 3.7832107951
+  },
+  {
+    "water_level": 3.5473268455,
+    "ph_level": 0.5935043301,
+    "soil_level": 3.4880833216
+  },
+  {
+    "water_level": 4.9679955466,
+    "ph_level": 4.3769367633,
+    "soil_level": 0.0447955456
+  },
+  {
+    "water_level": 3.1497360578,
+    "ph_level": 1.2321484371,
+    "soil_level": 3.4530412614
+  },
+  {
+    "water_level": 4.4690415372,
+    "ph_level": 1.6802816052,
+    "soil_level": 3.2537747584
+  },
+  {
+    "water_level": 1.7234691515,
+    "ph_level": 2.444122298,
+    "soil_level": 0.7988001357
+  },
+  {
+    "water_level": 0.8658338094,
+    "ph_level": 0.4290300448,
+    "soil_level": 2.0491112459
+  },
+  {
+    "water_level": 2.3827256477,
+    "ph_level": 1.7611162411,
+    "soil_level": 4.4514099522
+  },
+  {
+    "water_level": 0.6523269324,
+    "ph_level": 3.4053680844,
+    "soil_level": 4.283537171
+  },
+  {
+    "water_level": 3.2034762657,
+    "ph_level": 2.9615321417,
+    "soil_level": 2.5593172324
+  },
+  {
+    "water_level": 1.1744112861,
+    "ph_level": 1.5736729281,
+    "soil_level": 0.3520057304
+  },
+  {
+    "water_level": 1.2510903198,
+    "ph_level": 1.3847603855,
+    "soil_level": 2.0367584488
+  },
+  {
+    "water_level": 0.8689734566,
+    "ph_level": 1.0957223512,
+    "soil_level": 2.8829243975
+  },
+  {
+    "water_level": 0.6182478297,
+    "ph_level": 3.549221689,
+    "soil_level": 0.125677783
+  },
+  {
+    "water_level": 0.4918059502,
+    "ph_level": 4.1412814004,
+    "soil_level": 3.9811396499
+  },
+  {
+    "water_level": 3.9108469471,
+    "ph_level": 4.9117229348,
+    "soil_level": 4.1972655219
+  },
+  {
+    "water_level": 2.4962912196,
+    "ph_level": 2.6952634677,
+    "soil_level": 0.2835391875
+  },
+  {
+    "water_level": 4.060203728,
+    "ph_level": 2.3644357692,
+    "soil_level": 4.0313230937
+  },
+  {
+    "water_level": 3.2528410152,
+    "ph_level": 2.1018503909,
+    "soil_level": 1.0275066851
+  },
+  {
+    "water_level": 1.5234929283,
+    "ph_level": 2.6699429112,
+    "soil_level": 3.7421021801
+  },
+  {
+    "water_level": 4.8854867669,
+    "ph_level": 2.1945293659,
+    "soil_level": 3.6264148058
+  },
+  {
+    "water_level": 2.4992645678,
+    "ph_level": 0.394897932,
+    "soil_level": 4.1903693299
+  },
+  {
+    "water_level": 1.1660150488,
+    "ph_level": 2.8725659913,
+    "soil_level": 4.7048470053
+  },
+  {
+    "water_level": 0.9655629617,
+    "ph_level": 0.8660167952,
+    "soil_level": 3.430947435
+  },
+  {
+    "water_level": 0.3732359566,
+    "ph_level": 4.7329125253,
+    "soil_level": 1.1066544124
+  },
+  {
+    "water_level": 1.677012665,
+    "ph_level": 1.6894828055,
+    "soil_level": 1.397411814
+  },
+  {
+    "water_level": 2.5587788217,
+    "ph_level": 1.1601367736,
+    "soil_level": 4.0574684485
+  },
+  {
+    "water_level": 2.8534748315,
+    "ph_level": 3.4084190075,
+    "soil_level": 2.1396315717
+  },
+  {
+    "water_level": 0.3973515358,
+    "ph_level": 4.6110262555,
+    "soil_level": 0.2713878505
+  },
+  {
+    "water_level": 0.4179602974,
+    "ph_level": 0.0281483259,
+    "soil_level": 2.3991997913
+  },
+  {
+    "water_level": 4.9906953807,
+    "ph_level": 1.7297288867,
+    "soil_level": 4.1074503652
+  },
+  {
+    "water_level": 0.2938217119,
+    "ph_level": 0.4695013678,
+    "soil_level": 4.1807840567
+  },
+  {
+    "water_level": 3.9283241783,
+    "ph_level": 0.2117142026,
+    "soil_level": 4.0900826277
+  },
+  {
+    "water_level": 4.2965226504,
+    "ph_level": 1.0995918271,
+    "soil_level": 2.2669698957
+  },
+  {
+    "water_level": 1.3203892105,
+    "ph_level": 3.0040786553,
+    "soil_level": 4.415645245
+  },
+  {
+    "water_level": 2.7676591619,
+    "ph_level": 3.5716568415,
+    "soil_level": 1.5233713834
+  },
+  {
+    "water_level": 3.8591661614,
+    "ph_level": 3.339392295,
+    "soil_level": 2.3757663029
+  },
+  {
+    "water_level": 0.8165462204,
+    "ph_level": 2.9752175924,
+    "soil_level": 1.5184031302
+  },
+  {
+    "water_level": 4.0320926429,
+    "ph_level": 2.2596371933,
+    "soil_level": 1.9103119211
+  },
+  {
+    "water_level": 0.5156844568,
+    "ph_level": 1.9013919386,
+    "soil_level": 2.9308450803
+  },
+  {
+    "water_level": 0.5736873022,
+    "ph_level": 4.4328359787,
+    "soil_level": 4.5430988208
+  },
+  {
+    "water_level": 0.0784134063,
+    "ph_level": 1.9340630108,
+    "soil_level": 4.2530588101
+  },
+  {
+    "water_level": 2.7489107499,
+    "ph_level": 0.0102410486,
+    "soil_level": 3.4664529541
+  },
+  {
+    "water_level": 2.8359904266,
+    "ph_level": 0.1853764972,
+    "soil_level": 3.2151998161
+  },
+  {
+    "water_level": 1.9653599634,
+    "ph_level": 4.1921197212,
+    "soil_level": 2.4326085093
+  },
+  {
+    "water_level": 3.6751177044,
+    "ph_level": 1.9003530947,
+    "soil_level": 3.0018130827
+  },
+  {
+    "water_level": 4.4262083338,
+    "ph_level": 2.7234538176,
+    "soil_level": 3.9016542463
+  },
+  {
+    "water_level": 1.5509746089,
+    "ph_level": 2.5724048449,
+    "soil_level": 2.1205114688
+  },
+  {
+    "water_level": 3.7568458722,
+    "ph_level": 3.3652146643,
+    "soil_level": 0.5487575871
+  },
+  {
+    "water_level": 4.511984867,
+    "ph_level": 2.2150424189,
+    "soil_level": 3.068468624
+  },
+  {
+    "water_level": 0.085043163,
+    "ph_level": 1.6630629462,
+    "soil_level": 1.715012436
+  },
+  {
+    "water_level": 2.6424109389,
+    "ph_level": 4.1191581014,
+    "soil_level": 2.5483471758
+  },
+  {
+    "water_level": 2.7400562022,
+    "ph_level": 3.639749047,
+    "soil_level": 4.9486235933
+  },
+  {
+    "water_level": 3.7524525939,
+    "ph_level": 2.1592853894,
+    "soil_level": 1.8277698879
+  },
+  {
+    "water_level": 2.1650319608,
+    "ph_level": 4.3699612013,
+    "soil_level": 0.5911275275
+  },
+  {
+    "water_level": 4.6173634784,
+    "ph_level": 4.2783776473,
+    "soil_level": 0.5450723562
+  },
+  {
+    "water_level": 3.0535489221,
+    "ph_level": 3.672223842,
+    "soil_level": 2.7102226622
+  },
+  {
+    "water_level": 3.1485682883,
+    "ph_level": 0.1164150511,
+    "soil_level": 0.9592820153
+  },
+  {
+    "water_level": 3.6165149887,
+    "ph_level": 1.9263437702,
+    "soil_level": 0.8171495133
+  },
+  {
+    "water_level": 0.7615389688,
+    "ph_level": 1.8185931271,
+    "soil_level": 1.8289193858
+  },
+  {
+    "water_level": 0.3505784952,
+    "ph_level": 1.009472456,
+    "soil_level": 2.7265200488
+  },
+  {
+    "water_level": 4.2808086807,
+    "ph_level": 0.2566861107,
+    "soil_level": 4.6178074213
+  },
+  {
+    "water_level": 1.4227826808,
+    "ph_level": 2.8878001509,
+    "soil_level": 0.9749776321
+  },
+  {
+    "water_level": 3.3944525319,
+    "ph_level": 3.6785400798,
+    "soil_level": 4.6781287393
+  },
+  {
+    "water_level": 4.0718189802,
+    "ph_level": 1.4627425793,
+    "soil_level": 3.966461469
+  },
+  {
+    "water_level": 1.2786926225,
+    "ph_level": 2.5254898891,
+    "soil_level": 4.3569784536
+  },
+  {
+    "water_level": 0.6304974125,
+    "ph_level": 0.7933356844,
+    "soil_level": 3.6989999608
+  },
+  {
+    "water_level": 3.9057175728,
+    "ph_level": 3.3682803623,
+    "soil_level": 3.9535438988
+  },
+  {
+    "water_level": 0.6547477413,
+    "ph_level": 4.3572630097,
+    "soil_level": 1.7298995775
+  },
+  {
+    "water_level": 2.9899736631,
+    "ph_level": 4.1216791262,
+    "soil_level": 1.8792231823
+  },
+  {
+    "water_level": 4.7032315004,
+    "ph_level": 3.448944395,
+    "soil_level": 0.583789015
+  },
+  {
+    "water_level": 4.3226582522,
+    "ph_level": 1.8288200603,
+    "soil_level": 0.236045737
+  },
+  {
+    "water_level": 2.260584288,
+    "ph_level": 0.7799629688,
+    "soil_level": 0.5925046577
+  },
+  {
+    "water_level": 4.025433203,
+    "ph_level": 0.7467289597,
+    "soil_level": 1.2743925451
+  },
+  {
+    "water_level": 0.8904204333,
+    "ph_level": 0.8295800045,
+    "soil_level": 0.3391330958
+  },
+  {
+    "water_level": 1.3985152797,
+    "ph_level": 0.3406696827,
+    "soil_level": 4.3964619711
+  },
+  {
+    "water_level": 4.3300605726,
+    "ph_level": 1.5614721267,
+    "soil_level": 3.3499058464
+  },
+  {
+    "water_level": 4.4945093886,
+    "ph_level": 2.5751830185,
+    "soil_level": 1.6303614846
+  },
+  {
+    "water_level": 0.1994623846,
+    "ph_level": 4.2774669788,
+    "soil_level": 4.7439022743
+  },
+  {
+    "water_level": 0.5945753374,
+    "ph_level": 1.3443180684,
+    "soil_level": 4.6259582835
+  },
+  {
+    "water_level": 4.5167083858,
+    "ph_level": 2.1361761591,
+    "soil_level": 4.1416677048
+  },
+  {
+    "water_level": 3.5325649767,
+    "ph_level": 4.3036267781,
+    "soil_level": 3.1040700768
+  },
+  {
+    "water_level": 2.1668740573,
+    "ph_level": 1.2630351846,
+    "soil_level": 4.0083675079
+  },
+  {
+    "water_level": 3.5296728406,
+    "ph_level": 1.5690845981,
+    "soil_level": 0.7319310065
+  },
+  {
+    "water_level": 1.9834091174,
+    "ph_level": 4.5194645846,
+    "soil_level": 0.1172499924
+  },
+  {
+    "water_level": 0.4376605227,
+    "ph_level": 0.7796667014,
+    "soil_level": 1.6533529911
+  },
+  {
+    "water_level": 4.047920103,
+    "ph_level": 0.4442148795,
+    "soil_level": 4.1643858236
+  },
+  {
+    "water_level": 4.9210199815,
+    "ph_level": 1.8668369955,
+    "soil_level": 4.6821068343
+  },
+  {
+    "water_level": 4.1761298279,
+    "ph_level": 3.6561161335,
+    "soil_level": 4.9967746664
+  },
+  {
+    "water_level": 4.7336085726,
+    "ph_level": 3.7673061502,
+    "soil_level": 3.3071319777
+  },
+  {
+    "water_level": 3.9710354577,
+    "ph_level": 3.4382451986,
+    "soil_level": 3.3973354811
+  },
+  {
+    "water_level": 2.6485494478,
+    "ph_level": 4.6329849247,
+    "soil_level": 0.9744640559
+  },
+  {
+    "water_level": 0.2364501157,
+    "ph_level": 4.0369975761,
+    "soil_level": 3.4604561642
+  },
+  {
+    "water_level": 0.3318003191,
+    "ph_level": 2.030822075,
+    "soil_level": 2.5676989678
+  },
+  {
+    "water_level": 3.442922713,
+    "ph_level": 0.4643548716,
+    "soil_level": 4.4691149316
+  },
+  {
+    "water_level": 3.4538950865,
+    "ph_level": 1.3275510265,
+    "soil_level": 0.8893231332
+  },
+  {
+    "water_level": 0.6071720859,
+    "ph_level": 4.6477470282,
+    "soil_level": 1.0572444477
+  },
+  {
+    "water_level": 1.4347719565,
+    "ph_level": 0.1311017167,
+    "soil_level": 4.0416681916
+  },
+  {
+    "water_level": 3.6184137078,
+    "ph_level": 4.0226020985,
+    "soil_level": 4.0251120987
+  },
+  {
+    "water_level": 2.320004179,
+    "ph_level": 4.2829233462,
+    "soil_level": 1.5442187932
+  },
+  {
+    "water_level": 4.224788979,
+    "ph_level": 1.3920154354,
+    "soil_level": 3.2785127655
+  },
+  {
+    "water_level": 4.5010094911,
+    "ph_level": 0.7599959627,
+    "soil_level": 4.9329178059
+  },
+  {
+    "water_level": 2.7597060305,
+    "ph_level": 1.326980902,
+    "soil_level": 0.667556605
+  },
+  {
+    "water_level": 4.8193638716,
+    "ph_level": 1.3739396031,
+    "soil_level": 4.0791357245
+  },
+  {
+    "water_level": 1.6714402667,
+    "ph_level": 0.2826556786,
+    "soil_level": 2.8120303969
+  },
+  {
+    "water_level": 3.8618927106,
+    "ph_level": 3.4647414584,
+    "soil_level": 4.8488712584
+  },
+  {
+    "water_level": 4.4236704527,
+    "ph_level": 0.132416464,
+    "soil_level": 3.5953802227
+  },
+  {
+    "water_level": 1.7931998752,
+    "ph_level": 4.9083620523,
+    "soil_level": 0.3257326975
+  },
+  {
+    "water_level": 4.6605423249,
+    "ph_level": 3.4201264916,
+    "soil_level": 4.6109322648
+  },
+  {
+    "water_level": 3.6267124064,
+    "ph_level": 0.9739975835,
+    "soil_level": 3.8302395992
+  },
+  {
+    "water_level": 3.4312728028,
+    "ph_level": 4.1569637064,
+    "soil_level": 2.6531489151
+  },
+  {
+    "water_level": 1.7787883014,
+    "ph_level": 2.4712152201,
+    "soil_level": 0.1044610069
+  },
+  {
+    "water_level": 0.2097384939,
+    "ph_level": 4.9981047918,
+    "soil_level": 0.2200425543
+  },
+  {
+    "water_level": 0.8271027725,
+    "ph_level": 2.8049738119,
+    "soil_level": 1.1536560704
+  },
+  {
+    "water_level": 1.4350046797,
+    "ph_level": 1.8809332794,
+    "soil_level": 3.7371412121
+  },
+  {
+    "water_level": 0.1095598703,
+    "ph_level": 1.4201837242,
+    "soil_level": 0.2315689363
+  },
+  {
+    "water_level": 2.7161952132,
+    "ph_level": 0.1288081082,
+    "soil_level": 0.1056936769
+  },
+  {
+    "water_level": 0.3876282949,
+    "ph_level": 3.9836460943,
+    "soil_level": 4.3343333262
+  },
+  {
+    "water_level": 2.7418539816,
+    "ph_level": 4.6315433076,
+    "soil_level": 0.5192836638
+  },
+  {
+    "water_level": 2.6389054466,
+    "ph_level": 1.5334859665,
+    "soil_level": 0.2770036048
+  },
+  {
+    "water_level": 2.3235574984,
+    "ph_level": 2.9027784704,
+    "soil_level": 1.307295369
+  },
+  {
+    "water_level": 1.044974914,
+    "ph_level": 0.2407631782,
+    "soil_level": 0.8930070321
+  },
+  {
+    "water_level": 2.8321248702,
+    "ph_level": 1.8214117788,
+    "soil_level": 1.0995640822
+  },
+  {
+    "water_level": 1.2054514381,
+    "ph_level": 0.6790830221,
+    "soil_level": 3.8664158044
+  },
+  {
+    "water_level": 2.7205348036,
+    "ph_level": 3.6463976566,
+    "soil_level": 2.6218966628
+  },
+  {
+    "water_level": 3.2706262841,
+    "ph_level": 0.3989125174,
+    "soil_level": 2.6799725394
+  },
+  {
+    "water_level": 2.2227778845,
+    "ph_level": 4.5489350247,
+    "soil_level": 4.0484301738
+  },
+  {
+    "water_level": 1.4853347563,
+    "ph_level": 0.9293425638,
+    "soil_level": 4.6579455056
+  },
+  {
+    "water_level": 2.7114017449,
+    "ph_level": 1.1210764912,
+    "soil_level": 0.5630578402
+  },
+  {
+    "water_level": 1.1337274227,
+    "ph_level": 4.196037586,
+    "soil_level": 4.1713603645
+  },
+  {
+    "water_level": 4.0663447955,
+    "ph_level": 3.4170777316,
+    "soil_level": 2.5120754293
+  },
+  {
+    "water_level": 0.5034698443,
+    "ph_level": 0.7392972026,
+    "soil_level": 4.3589511938
+  },
+  {
+    "water_level": 3.9848440363,
+    "ph_level": 2.7464478006,
+    "soil_level": 2.1573667689
+  },
+  {
+    "water_level": 2.3746915913,
+    "ph_level": 0.383082016,
+    "soil_level": 0.0139981257
+  },
+  {
+    "water_level": 0.1592023004,
+    "ph_level": 3.6627573251,
+    "soil_level": 1.102622943
+  },
+  {
+    "water_level": 0.6201280031,
+    "ph_level": 2.0860389866,
+    "soil_level": 1.4424218565
+  },
+  {
+    "water_level": 3.0255489194,
+    "ph_level": 3.8709114979,
+    "soil_level": 1.4557010544
+  },
+  {
+    "water_level": 2.2350421336,
+    "ph_level": 0.0700760986,
+    "soil_level": 1.169633872
+  },
+  {
+    "water_level": 2.2855828187,
+    "ph_level": 3.9826648969,
+    "soil_level": 0.6722021972
+  },
+  {
+    "water_level": 1.0294032816,
+    "ph_level": 1.9510789229,
+    "soil_level": 3.5610231629
+  },
+  {
+    "water_level": 1.4942113281,
+    "ph_level": 4.2328225455,
+    "soil_level": 1.388788567
+  },
+  {
+    "water_level": 1.5275181873,
+    "ph_level": 2.8111732893,
+    "soil_level": 1.3736661104
+  },
+  {
+    "water_level": 1.3938199483,
+    "ph_level": 2.970987844,
+    "soil_level": 0.6339252126
+  },
+  {
+    "water_level": 1.2778101854,
+    "ph_level": 1.254681267,
+    "soil_level": 3.5065167436
+  },
+  {
+    "water_level": 3.4658779049,
+    "ph_level": 3.5983109392,
+    "soil_level": 4.4125435028
+  },
+  {
+    "water_level": 0.1185214484,
+    "ph_level": 3.3255765526,
+    "soil_level": 1.8859628233
+  },
+  {
+    "water_level": 4.780136308,
+    "ph_level": 2.8818186108,
+    "soil_level": 1.7356825562
+  },
+  {
+    "water_level": 0.8422271857,
+    "ph_level": 0.8470270511,
+    "soil_level": 2.4573303656
+  },
+  {
+    "water_level": 1.2456330444,
+    "ph_level": 3.8347699905,
+    "soil_level": 0.176913295
+  },
+  {
+    "water_level": 2.0379298377,
+    "ph_level": 0.1709788245,
+    "soil_level": 1.1004619702
+  },
+  {
+    "water_level": 2.3401357242,
+    "ph_level": 2.4805593444,
+    "soil_level": 4.5699999949
+  },
+  {
+    "water_level": 4.7662684439,
+    "ph_level": 1.2393138534,
+    "soil_level": 3.5529106508
+  },
+  {
+    "water_level": 3.5849936544,
+    "ph_level": 0.3204638464,
+    "soil_level": 4.1585706343
+  },
+  {
+    "water_level": 3.2257326401,
+    "ph_level": 3.9008636882,
+    "soil_level": 3.7106841206
+  },
+  {
+    "water_level": 3.6509120148,
+    "ph_level": 1.0756433986,
+    "soil_level": 3.9112138465
+  },
+  {
+    "water_level": 1.4562199661,
+    "ph_level": 3.0058365203,
+    "soil_level": 0.9772594812
+  },
+  {
+    "water_level": 1.6169684133,
+    "ph_level": 3.4689370249,
+    "soil_level": 3.5061079737
+  },
+  {
+    "water_level": 4.4626811484,
+    "ph_level": 0.732218098,
+    "soil_level": 2.9386112142
+  },
+  {
+    "water_level": 2.6216438776,
+    "ph_level": 4.270648268,
+    "soil_level": 3.5556129428
+  },
+  {
+    "water_level": 1.0067042898,
+    "ph_level": 0.4820384771,
+    "soil_level": 0.9054544469
+  },
+  {
+    "water_level": 0.2613310301,
+    "ph_level": 3.5738253208,
+    "soil_level": 3.7087978029
+  },
+  {
+    "water_level": 3.593657451,
+    "ph_level": 1.908872219,
+    "soil_level": 1.9387124637
+  },
+  {
+    "water_level": 1.4718666668,
+    "ph_level": 0.9967689578,
+    "soil_level": 3.6835651685
+  },
+  {
+    "water_level": 0.7022097397,
+    "ph_level": 3.5420903827,
+    "soil_level": 1.6742094873
+  },
+  {
+    "water_level": 0.0363752675,
+    "ph_level": 4.28965806,
+    "soil_level": 3.1657470805
+  },
+  {
+    "water_level": 4.1946182727,
+    "ph_level": 2.5565191856,
+    "soil_level": 4.7637452183
+  },
+  {
+    "water_level": 3.8206808886,
+    "ph_level": 0.9311220526,
+    "soil_level": 1.8078400377
+  },
+  {
+    "water_level": 4.6197179604,
+    "ph_level": 1.6947540419,
+    "soil_level": 2.8066376888
+  },
+  {
+    "water_level": 3.326402266,
+    "ph_level": 2.3496814936,
+    "soil_level": 0.570378683
+  },
+  {
+    "water_level": 3.699592852,
+    "ph_level": 2.0652267848,
+    "soil_level": 3.6624993221
+  },
+  {
+    "water_level": 4.3626151922,
+    "ph_level": 2.5474814539,
+    "soil_level": 4.1898285177
+  },
+  {
+    "water_level": 2.2717979619,
+    "ph_level": 3.8667522182,
+    "soil_level": 2.998586049
+  },
+  {
+    "water_level": 2.9026386854,
+    "ph_level": 2.7295162466,
+    "soil_level": 2.1630546105
+  },
+  {
+    "water_level": 4.7227902369,
+    "ph_level": 1.5491543422,
+    "soil_level": 1.5551202537
+  },
+  {
+    "water_level": 2.7649331101,
+    "ph_level": 3.928070725,
+    "soil_level": 2.2586288815
+  },
+  {
+    "water_level": 4.1613239917,
+    "ph_level": 1.0343203484,
+    "soil_level": 3.5402201409
+  },
+  {
+    "water_level": 0.3396164554,
+    "ph_level": 1.0898527105,
+    "soil_level": 4.7877101109
+  },
+  {
+    "water_level": 1.5078868245,
+    "ph_level": 4.8867882831,
+    "soil_level": 0.2038942778
+  },
+  {
+    "water_level": 4.3012799358,
+    "ph_level": 2.6212666631,
+    "soil_level": 0.7690463387
+  },
+  {
+    "water_level": 3.8733301418,
+    "ph_level": 4.8199368951,
+    "soil_level": 0.835411258
+  },
+  {
+    "water_level": 0.8056649223,
+    "ph_level": 3.8815033685,
+    "soil_level": 4.8491446648
+  },
+  {
+    "water_level": 2.151430463,
+    "ph_level": 1.8401008206,
+    "soil_level": 3.1873174907
+  },
+  {
+    "water_level": 0.2784513902,
+    "ph_level": 4.78834519,
+    "soil_level": 0.3113469046
+  },
+  {
+    "water_level": 1.0183886987,
+    "ph_level": 3.9147749521,
+    "soil_level": 3.0382226981
+  },
+  {
+    "water_level": 4.5450723402,
+    "ph_level": 1.0505967351,
+    "soil_level": 3.5271601974
+  },
+  {
+    "water_level": 3.4749649069,
+    "ph_level": 4.891570977,
+    "soil_level": 0.2842378473
+  },
+  {
+    "water_level": 0.0787559529,
+    "ph_level": 0.3466491971,
+    "soil_level": 4.790979434
+  },
+  {
+    "water_level": 0.5401431901,
+    "ph_level": 0.3952216457,
+    "soil_level": 1.1005897399
+  },
+  {
+    "water_level": 1.119215273,
+    "ph_level": 3.1683910711,
+    "soil_level": 4.359747564
+  },
+  {
+    "water_level": 4.542061701,
+    "ph_level": 4.0595107789,
+    "soil_level": 1.6582979629
+  },
+  {
+    "water_level": 2.4101496834,
+    "ph_level": 0.3808057328,
+    "soil_level": 0.7886803308
+  },
+  {
+    "water_level": 0.5801235184,
+    "ph_level": 4.9708965967,
+    "soil_level": 1.3710664373
+  },
+  {
+    "water_level": 2.1380382595,
+    "ph_level": 1.1728551199,
+    "soil_level": 3.576577593
+  },
+  {
+    "water_level": 4.4784873883,
+    "ph_level": 4.0336164453,
+    "soil_level": 0.2635573837
+  },
+  {
+    "water_level": 1.3976369554,
+    "ph_level": 4.5981248313,
+    "soil_level": 3.6309762567
+  },
+  {
+    "water_level": 1.9585077685,
+    "ph_level": 1.8654486911,
+    "soil_level": 0.2677339662
+  },
+  {
+    "water_level": 0.8185067995,
+    "ph_level": 0.7966257678,
+    "soil_level": 3.267118247
+  },
+  {
+    "water_level": 3.5294075623,
+    "ph_level": 0.338269897,
+    "soil_level": 3.4644438806
+  },
+  {
+    "water_level": 4.524759831,
+    "ph_level": 0.0406487104,
+    "soil_level": 0.6829275362
+  },
+  {
+    "water_level": 3.90244859,
+    "ph_level": 4.5221875948,
+    "soil_level": 1.3336951359
+  },
+  {
+    "water_level": 0.3113839858,
+    "ph_level": 0.6709104926,
+    "soil_level": 2.6512710381
+  },
+  {
+    "water_level": 4.99530969,
+    "ph_level": 4.0296609662,
+    "soil_level": 3.8084985734
+  },
+  {
+    "water_level": 1.3571036702,
+    "ph_level": 2.0855268871,
+    "soil_level": 4.9550225066
+  },
+  {
+    "water_level": 1.2052547933,
+    "ph_level": 0.0733044933,
+    "soil_level": 0.5568440697
+  },
+  {
+    "water_level": 2.6112323971,
+    "ph_level": 2.9497977183,
+    "soil_level": 1.7081872514
+  },
+  {
+    "water_level": 1.4302096325,
+    "ph_level": 4.8553480611,
+    "soil_level": 2.9400471095
+  },
+  {
+    "water_level": 1.1306084294,
+    "ph_level": 0.9686408803,
+    "soil_level": 0.8046560924
+  },
+  {
+    "water_level": 4.7594509444,
+    "ph_level": 1.8134369929,
+    "soil_level": 1.1722481718
+  },
+  {
+    "water_level": 1.8010334428,
+    "ph_level": 1.2803100769,
+    "soil_level": 1.8564171533
+  },
+  {
+    "water_level": 3.7159790269,
+    "ph_level": 0.0517400713,
+    "soil_level": 3.6150885658
+  },
+  {
+    "water_level": 0.3809973725,
+    "ph_level": 3.4078921655,
+    "soil_level": 4.2917849855
+  },
+  {
+    "water_level": 1.7839592703,
+    "ph_level": 0.2959059772,
+    "soil_level": 0.7829283508
+  },
+  {
+    "water_level": 1.6689732063,
+    "ph_level": 3.274838408,
+    "soil_level": 4.9792612287
+  },
+  {
+    "water_level": 0.5125388286,
+    "ph_level": 4.8229302409,
+    "soil_level": 4.0508101671
+  },
+  {
+    "water_level": 1.3929657174,
+    "ph_level": 0.0356847275,
+    "soil_level": 2.2489142223
+  },
+  {
+    "water_level": 2.610893531,
+    "ph_level": 0.0320905611,
+    "soil_level": 0.3096947246
+  },
+  {
+    "water_level": 2.4902850174,
+    "ph_level": 1.578594524,
+    "soil_level": 0.2197841082
+  },
+  {
+    "water_level": 0.9393476626,
+    "ph_level": 2.7428062057,
+    "soil_level": 1.3752610232
+  },
+  {
+    "water_level": 1.3411471436,
+    "ph_level": 3.5615086212,
+    "soil_level": 3.6178910124
+  },
+  {
+    "water_level": 3.0575866019,
+    "ph_level": 3.3457080012,
+    "soil_level": 4.3744708584
+  },
+  {
+    "water_level": 0.1093001925,
+    "ph_level": 4.6868518099,
+    "soil_level": 2.9789353873
+  },
+  {
+    "water_level": 3.1642291506,
+    "ph_level": 2.554515811,
+    "soil_level": 4.9784458446
+  },
+  {
+    "water_level": 1.4718883408,
+    "ph_level": 0.4259541205,
+    "soil_level": 0.4422915737
+  },
+  {
+    "water_level": 3.5784498809,
+    "ph_level": 2.0580803525,
+    "soil_level": 4.1582870167
+  },
+  {
+    "water_level": 1.4095418866,
+    "ph_level": 1.2243468816,
+    "soil_level": 3.6223488122
+  },
+  {
+    "water_level": 4.7154386981,
+    "ph_level": 1.0984006493,
+    "soil_level": 3.3097440342
+  },
+  {
+    "water_level": 1.9177040183,
+    "ph_level": 0.980865063,
+    "soil_level": 4.1344707004
+  },
+  {
+    "water_level": 2.1132572294,
+    "ph_level": 4.9640082041,
+    "soil_level": 2.2718443619
+  },
+  {
+    "water_level": 0.9436536456,
+    "ph_level": 2.6510030742,
+    "soil_level": 4.3028273703
+  },
+  {
+    "water_level": 4.6249355655,
+    "ph_level": 0.0029800496,
+    "soil_level": 1.227537398
+  },
+  {
+    "water_level": 1.9304789968,
+    "ph_level": 4.2838686293,
+    "soil_level": 0.0740483192
+  },
+  {
+    "water_level": 1.7164603084,
+    "ph_level": 1.7655093707,
+    "soil_level": 0.7792456433
+  },
+  {
+    "water_level": 3.1408214093,
+    "ph_level": 2.966029008,
+    "soil_level": 3.062069655
+  },
+  {
+    "water_level": 4.2757975602,
+    "ph_level": 4.7644979224,
+    "soil_level": 4.4426060881
+  },
+  {
+    "water_level": 3.1217913184,
+    "ph_level": 2.4477986186,
+    "soil_level": 2.7830049897
+  },
+  {
+    "water_level": 3.4105217489,
+    "ph_level": 0.7370571044,
+    "soil_level": 3.1032867874
+  },
+  {
+    "water_level": 0.4733123749,
+    "ph_level": 0.5206907441,
+    "soil_level": 1.0418645332
+  },
+  {
+    "water_level": 4.2902691613,
+    "ph_level": 1.6984885254,
+    "soil_level": 0.4141273745
+  },
+  {
+    "water_level": 0.9606854237,
+    "ph_level": 0.1683075479,
+    "soil_level": 2.4488729848
+  },
+  {
+    "water_level": 4.6274030554,
+    "ph_level": 1.6835775297,
+    "soil_level": 0.0805143301
+  },
+  {
+    "water_level": 2.6762273961,
+    "ph_level": 2.868134187,
+    "soil_level": 2.7943167446
+  },
+  {
+    "water_level": 3.9967451633,
+    "ph_level": 1.1653206614,
+    "soil_level": 0.8231649411
+  },
+  {
+    "water_level": 4.9707267855,
+    "ph_level": 3.9859132317,
+    "soil_level": 0.5644772061
+  },
+  {
+    "water_level": 2.4906294305,
+    "ph_level": 2.7656709924,
+    "soil_level": 4.9980888763
+  },
+  {
+    "water_level": 2.7210505324,
+    "ph_level": 4.1639213815,
+    "soil_level": 2.4022330505
+  },
+  {
+    "water_level": 4.8107240948,
+    "ph_level": 4.4079854158,
+    "soil_level": 1.8163536214
+  },
+  {
+    "water_level": 4.719045239,
+    "ph_level": 1.5099459767,
+    "soil_level": 2.3015183057
+  },
+  {
+    "water_level": 0.9098859233,
+    "ph_level": 1.1674632501,
+    "soil_level": 0.6858862367
+  },
+  {
+    "water_level": 1.4648163721,
+    "ph_level": 2.5756202517,
+    "soil_level": 1.5078031498
+  },
+  {
+    "water_level": 2.063720488,
+    "ph_level": 3.7679498262,
+    "soil_level": 2.4753788321
+  },
+  {
+    "water_level": 0.9801285128,
+    "ph_level": 1.6257685192,
+    "soil_level": 1.5353972972
+  },
+  {
+    "water_level": 1.4355587453,
+    "ph_level": 1.7872608721,
+    "soil_level": 0.8549986375
+  },
+  {
+    "water_level": 1.3950173472,
+    "ph_level": 0.758485994,
+    "soil_level": 3.4064979617
+  },
+  {
+    "water_level": 0.1439803078,
+    "ph_level": 2.9063676732,
+    "soil_level": 1.7013949702
+  },
+  {
+    "water_level": 3.7712926247,
+    "ph_level": 2.0674264019,
+    "soil_level": 3.7644881538
+  },
+  {
+    "water_level": 3.3076656057,
+    "ph_level": 4.3825626672,
+    "soil_level": 0.3218056204
+  },
+  {
+    "water_level": 4.7365067113,
+    "ph_level": 2.1937293648,
+    "soil_level": 0.7550036478
+  },
+  {
+    "water_level": 0.5910966633,
+    "ph_level": 1.4098869922,
+    "soil_level": 3.0797865715
+  },
+  {
+    "water_level": 0.6216607595,
+    "ph_level": 0.8752997823,
+    "soil_level": 4.1944601708
+  },
+  {
+    "water_level": 4.6148325089,
+    "ph_level": 4.190764074,
+    "soil_level": 1.2152165321
+  },
+  {
+    "water_level": 4.5307877748,
+    "ph_level": 0.2804475703,
+    "soil_level": 3.0513464444
+  },
+  {
+    "water_level": 2.3443895886,
+    "ph_level": 0.3997226382,
+    "soil_level": 1.5601530065
+  },
+  {
+    "water_level": 1.4529568217,
+    "ph_level": 2.9255498963,
+    "soil_level": 0.5955451518
+  },
+  {
+    "water_level": 1.6543642712,
+    "ph_level": 4.291749948,
+    "soil_level": 4.2531544644
+  },
+  {
+    "water_level": 1.1366446784,
+    "ph_level": 3.3982738491,
+    "soil_level": 1.6165852713
+  },
+  {
+    "water_level": 3.3470910791,
+    "ph_level": 4.7913338602,
+    "soil_level": 3.7108575564
+  },
+  {
+    "water_level": 4.0160413001,
+    "ph_level": 3.121890581,
+    "soil_level": 3.980433423
+  },
+  {
+    "water_level": 4.5313991351,
+    "ph_level": 4.3465340037,
+    "soil_level": 0.2684960081
+  },
+  {
+    "water_level": 3.6321777192,
+    "ph_level": 1.2832288163,
+    "soil_level": 3.6487355877
+  },
+  {
+    "water_level": 1.8489916269,
+    "ph_level": 4.7575319288,
+    "soil_level": 1.2503612688
+  },
+  {
+    "water_level": 2.9812535696,
+    "ph_level": 4.8056216096,
+    "soil_level": 3.7813054751
+  },
+  {
+    "water_level": 4.5896265804,
+    "ph_level": 2.8261781074,
+    "soil_level": 1.3783862365
+  },
+  {
+    "water_level": 1.0082306547,
+    "ph_level": 1.1618143704,
+    "soil_level": 4.7066029654
+  },
+  {
+    "water_level": 0.0095598162,
+    "ph_level": 4.7860160611,
+    "soil_level": 4.2997331979
+  },
+  {
+    "water_level": 3.991674467,
+    "ph_level": 0.0855183019,
+    "soil_level": 3.0247031818
+  },
+  {
+    "water_level": 1.6108627908,
+    "ph_level": 4.3523456445,
+    "soil_level": 0.3087420787
+  },
+  {
+    "water_level": 2.3260291066,
+    "ph_level": 1.2116636535,
+    "soil_level": 1.4364809069
+  },
+  {
+    "water_level": 3.7891338955,
+    "ph_level": 4.0994117153,
+    "soil_level": 3.727740773
+  },
+  {
+    "water_level": 3.6347964645,
+    "ph_level": 3.416748607,
+    "soil_level": 3.1328448821
+  },
+  {
+    "water_level": 3.6179983989,
+    "ph_level": 3.6162287894,
+    "soil_level": 3.4865839471
+  },
+  {
+    "water_level": 3.9459451888,
+    "ph_level": 3.8490016613,
+    "soil_level": 4.3783948788
+  },
+  {
+    "water_level": 3.929283217,
+    "ph_level": 4.5428846262,
+    "soil_level": 4.7732400672
+  },
+  {
+    "water_level": 4.7199269694,
+    "ph_level": 4.9117830793,
+    "soil_level": 1.6626629436
+  },
+  {
+    "water_level": 0.2170793391,
+    "ph_level": 4.3057316445,
+    "soil_level": 2.5709963393
+  },
+  {
+    "water_level": 1.4623012704,
+    "ph_level": 2.8043735274,
+    "soil_level": 3.3239802808
+  },
+  {
+    "water_level": 0.2317768779,
+    "ph_level": 3.2235697927,
+    "soil_level": 3.5655202794
+  },
+  {
+    "water_level": 4.1686331449,
+    "ph_level": 4.3537772978,
+    "soil_level": 0.8978419989
+  },
+  {
+    "water_level": 2.4226717397,
+    "ph_level": 3.1902722235,
+    "soil_level": 0.5728959458
+  },
+  {
+    "water_level": 4.3942447663,
+    "ph_level": 4.245419114,
+    "soil_level": 3.5834399101
+  },
+  {
+    "water_level": 0.322759268,
+    "ph_level": 2.0973979622,
+    "soil_level": 4.3114270847
+  },
+  {
+    "water_level": 4.8472183409,
+    "ph_level": 0.5020835045,
+    "soil_level": 3.6041263686
+  },
+  {
+    "water_level": 3.7224568574,
+    "ph_level": 4.3613809899,
+    "soil_level": 4.4850905525
+  },
+  {
+    "water_level": 2.4094215639,
+    "ph_level": 3.667210112,
+    "soil_level": 3.1318621499
+  },
+  {
+    "water_level": 0.9596161812,
+    "ph_level": 1.7573120763,
+    "soil_level": 2.8402887313
+  },
+  {
+    "water_level": 4.3467263544,
+    "ph_level": 0.5194695894,
+    "soil_level": 0.9082014572
+  },
+  {
+    "water_level": 0.2965293598,
+    "ph_level": 3.926985068,
+    "soil_level": 2.6160770691
+  },
+  {
+    "water_level": 2.2084158034,
+    "ph_level": 2.7531427477,
+    "soil_level": 4.5758395983
+  },
+  {
+    "water_level": 2.5422230974,
+    "ph_level": 1.7347233604,
+    "soil_level": 0.0766453887
+  },
+  {
+    "water_level": 4.2005225643,
+    "ph_level": 4.2313484077,
+    "soil_level": 0.7961295533
+  },
+  {
+    "water_level": 1.1921664461,
+    "ph_level": 2.245809812,
+    "soil_level": 0.31397944
+  },
+  {
+    "water_level": 0.7862050718,
+    "ph_level": 3.7538885581,
+    "soil_level": 4.598392091
+  },
+  {
+    "water_level": 1.4007151957,
+    "ph_level": 3.4101414526,
+    "soil_level": 1.9625761992
+  },
+  {
+    "water_level": 0.9960363306,
+    "ph_level": 4.3680512317,
+    "soil_level": 2.6488999812
+  },
+  {
+    "water_level": 3.7093491073,
+    "ph_level": 3.6567568475,
+    "soil_level": 3.24402329
+  },
+  {
+    "water_level": 0.2608292848,
+    "ph_level": 3.7296991401,
+    "soil_level": 0.1364859791
+  },
+  {
+    "water_level": 1.46645463,
+    "ph_level": 0.0612566214,
+    "soil_level": 2.5741840323
+  },
+  {
+    "water_level": 1.5547912972,
+    "ph_level": 1.0363491825,
+    "soil_level": 3.1297789292
+  },
+  {
+    "water_level": 0.8937432492,
+    "ph_level": 2.8157825175,
+    "soil_level": 2.0986329076
+  },
+  {
+    "water_level": 1.2879519181,
+    "ph_level": 2.5709068009,
+    "soil_level": 4.2544257969
+  },
+  {
+    "water_level": 2.8501073521,
+    "ph_level": 0.389339338,
+    "soil_level": 2.0500389792
+  },
+  {
+    "water_level": 4.6703294112,
+    "ph_level": 3.7475781463,
+    "soil_level": 3.9773095955
+  },
+  {
+    "water_level": 4.5513916546,
+    "ph_level": 1.022263508,
+    "soil_level": 4.114539748
+  },
+  {
+    "water_level": 2.6958107901,
+    "ph_level": 3.0920188951,
+    "soil_level": 3.0228246317
+  },
+  {
+    "water_level": 3.6175946931,
+    "ph_level": 3.6806627326,
+    "soil_level": 2.0662553851
+  },
+  {
+    "water_level": 2.4212064347,
+    "ph_level": 4.6037230014,
+    "soil_level": 0.5161860837
+  },
+  {
+    "water_level": 0.04253733,
+    "ph_level": 2.2498153316,
+    "soil_level": 3.8872815713
+  },
+  {
+    "water_level": 2.544475314,
+    "ph_level": 3.5686997025,
+    "soil_level": 1.9591787037
+  },
+  {
+    "water_level": 4.5817732271,
+    "ph_level": 4.2007379741,
+    "soil_level": 1.646153093
+  },
+  {
+    "water_level": 4.7103854632,
+    "ph_level": 4.4017609466,
+    "soil_level": 0.7560368398
+  },
+  {
+    "water_level": 4.803545774,
+    "ph_level": 1.6230090106,
+    "soil_level": 4.1754738707
+  },
+  {
+    "water_level": 4.8499877185,
+    "ph_level": 4.225117048,
+    "soil_level": 4.3442603689
+  },
+  {
+    "water_level": 2.3117802766,
+    "ph_level": 4.5486390639,
+    "soil_level": 0.3315277114
+  },
+  {
+    "water_level": 1.9708512847,
+    "ph_level": 2.4584757224,
+    "soil_level": 3.5308417249
+  },
+  {
+    "water_level": 2.1316794929,
+    "ph_level": 0.874602636,
+    "soil_level": 4.3421280479
+  },
+  {
+    "water_level": 2.3431815701,
+    "ph_level": 0.0812382427,
+    "soil_level": 1.9237466929
+  },
+  {
+    "water_level": 4.9993386565,
+    "ph_level": 1.9022481701,
+    "soil_level": 4.517253764
+  },
+  {
+    "water_level": 4.2147521555,
+    "ph_level": 4.9895081451,
+    "soil_level": 3.2843351638
+  },
+  {
+    "water_level": 2.461645891,
+    "ph_level": 1.74320766,
+    "soil_level": 1.4409300922
+  },
+  {
+    "water_level": 2.5847460977,
+    "ph_level": 2.719940913,
+    "soil_level": 2.6500802165
+  },
+  {
+    "water_level": 2.06267334,
+    "ph_level": 0.8469907413,
+    "soil_level": 1.1698897144
+  },
+  {
+    "water_level": 3.4483298676,
+    "ph_level": 3.5191633739,
+    "soil_level": 1.2040793914
+  },
+  {
+    "water_level": 1.8793209734,
+    "ph_level": 3.5741805737,
+    "soil_level": 3.2227844842
+  },
+  {
+    "water_level": 3.7875770191,
+    "ph_level": 4.5291808808,
+    "soil_level": 3.7098163212
+  },
+  {
+    "water_level": 1.991963829,
+    "ph_level": 3.4521112076,
+    "soil_level": 0.8086769971
+  },
+  {
+    "water_level": 3.4107326802,
+    "ph_level": 4.0948324388,
+    "soil_level": 3.7109681443
+  },
+  {
+    "water_level": 4.8417760422,
+    "ph_level": 1.7848895415,
+    "soil_level": 2.8512621362
+  },
+  {
+    "water_level": 4.0212450641,
+    "ph_level": 1.3778225416,
+    "soil_level": 0.3767225383
+  },
+  {
+    "water_level": 2.4932777005,
+    "ph_level": 2.5214714849,
+    "soil_level": 2.8287531094
+  },
+  {
+    "water_level": 3.1805426776,
+    "ph_level": 0.2579055488,
+    "soil_level": 4.668647594
+  },
+  {
+    "water_level": 3.1039461029,
+    "ph_level": 1.4147873225,
+    "soil_level": 4.3572652249
+  },
+  {
+    "water_level": 4.6524432865,
+    "ph_level": 0.6855324137,
+    "soil_level": 4.4885721467
+  },
+  {
+    "water_level": 4.6396810952,
+    "ph_level": 2.7481598955,
+    "soil_level": 1.3358350387
+  },
+  {
+    "water_level": 3.9115633722,
+    "ph_level": 1.3723869798,
+    "soil_level": 0.2789706259
+  },
+  {
+    "water_level": 0.0377846365,
+    "ph_level": 0.8783278115,
+    "soil_level": 3.9979516933
+  },
+  {
+    "water_level": 3.2518050789,
+    "ph_level": 2.1823576689,
+    "soil_level": 2.8421738726
+  },
+  {
+    "water_level": 4.496354768,
+    "ph_level": 1.4731283334,
+    "soil_level": 2.2877794557
+  },
+  {
+    "water_level": 3.8965095163,
+    "ph_level": 1.1278043407,
+    "soil_level": 2.7032319911
+  },
+  {
+    "water_level": 0.9377253923,
+    "ph_level": 0.1992886956,
+    "soil_level": 2.5286497689
+  },
+  {
+    "water_level": 3.2473993033,
+    "ph_level": 2.7985146992,
+    "soil_level": 4.2630715806
+  },
+  {
+    "water_level": 4.2450495393,
+    "ph_level": 0.5039350561,
+    "soil_level": 4.5506820602
+  },
+  {
+    "water_level": 2.6704599374,
+    "ph_level": 4.1202357734,
+    "soil_level": 2.8059338781
+  },
+  {
+    "water_level": 3.9671374282,
+    "ph_level": 2.6657857505,
+    "soil_level": 2.4109160431
+  },
+  {
+    "water_level": 4.4047064409,
+    "ph_level": 2.6475769345,
+    "soil_level": 4.9086534879
+  },
+  {
+    "water_level": 3.1396223908,
+    "ph_level": 1.0032217691,
+    "soil_level": 3.8101629616
+  },
+  {
+    "water_level": 2.1880768328,
+    "ph_level": 3.6199734052,
+    "soil_level": 2.6860082208
+  },
+  {
+    "water_level": 0.6028815045,
+    "ph_level": 4.0088633402,
+    "soil_level": 0.4750866099
+  },
+  {
+    "water_level": 2.5578406681,
+    "ph_level": 4.2940039879,
+    "soil_level": 4.6553626748
+  },
+  {
+    "water_level": 4.6999880183,
+    "ph_level": 1.2906509839,
+    "soil_level": 1.7033964772
+  },
+  {
+    "water_level": 3.8537769477,
+    "ph_level": 2.2729414835,
+    "soil_level": 4.5324675494
+  },
+  {
+    "water_level": 1.3324979238,
+    "ph_level": 4.7696612049,
+    "soil_level": 1.3983877221
+  },
+  {
+    "water_level": 1.1928452061,
+    "ph_level": 2.0744614812,
+    "soil_level": 1.9720945856
+  },
+  {
+    "water_level": 1.627086358,
+    "ph_level": 1.2314721371,
+    "soil_level": 3.4782040357
+  },
+  {
+    "water_level": 2.4242849895,
+    "ph_level": 2.0849363043,
+    "soil_level": 4.1258600959
+  },
+  {
+    "water_level": 1.3586993139,
+    "ph_level": 0.4069798455,
+    "soil_level": 4.7523171786
+  },
+  {
+    "water_level": 2.6640978843,
+    "ph_level": 4.9599839153,
+    "soil_level": 2.4370154659
+  },
+  {
+    "water_level": 4.5176101901,
+    "ph_level": 2.174796214,
+    "soil_level": 3.3887288162
+  },
+  {
+    "water_level": 4.6752209103,
+    "ph_level": 2.5739365734,
+    "soil_level": 3.7839281413
+  },
+  {
+    "water_level": 1.3639864068,
+    "ph_level": 1.8536180169,
+    "soil_level": 3.4648230869
+  },
+  {
+    "water_level": 0.7555269286,
+    "ph_level": 3.9397646377,
+    "soil_level": 1.9823465296
+  },
+  {
+    "water_level": 0.1554582459,
+    "ph_level": 4.7236614637,
+    "soil_level": 2.0091253485
+  },
+  {
+    "water_level": 3.3742806311,
+    "ph_level": 4.4797708557,
+    "soil_level": 3.8041914548
+  },
+  {
+    "water_level": 3.7127807762,
+    "ph_level": 2.4766244814,
+    "soil_level": 4.7040280764
+  },
+  {
+    "water_level": 4.4659604893,
+    "ph_level": 3.7440788932,
+    "soil_level": 2.2487025869
+  },
+  {
+    "water_level": 2.7749151334,
+    "ph_level": 2.7177146593,
+    "soil_level": 0.544738502
+  },
+  {
+    "water_level": 1.0183187219,
+    "ph_level": 1.833621734,
+    "soil_level": 2.352886419
+  },
+  {
+    "water_level": 4.7256424586,
+    "ph_level": 0.4637464582,
+    "soil_level": 3.5313796436
+  },
+  {
+    "water_level": 2.2829432348,
+    "ph_level": 2.2681991464,
+    "soil_level": 4.7397840602
+  },
+  {
+    "water_level": 2.7697526988,
+    "ph_level": 3.3054376893,
+    "soil_level": 2.0444298622
+  },
+  {
+    "water_level": 3.355515457,
+    "ph_level": 1.4212517728,
+    "soil_level": 0.7300479556
+  },
+  {
+    "water_level": 0.9080796664,
+    "ph_level": 1.2453397483,
+    "soil_level": 0.0246799189
+  },
+  {
+    "water_level": 0.1059723075,
+    "ph_level": 0.309434769,
+    "soil_level": 4.9642082638
+  },
+  {
+    "water_level": 1.4208198663,
+    "ph_level": 1.1270659597,
+    "soil_level": 3.7392407342
+  },
+  {
+    "water_level": 3.8648635738,
+    "ph_level": 1.6069313081,
+    "soil_level": 3.9898583924
+  },
+  {
+    "water_level": 1.4031728572,
+    "ph_level": 1.9350787746,
+    "soil_level": 4.1786811797
+  },
+  {
+    "water_level": 0.8161730343,
+    "ph_level": 3.6337546655,
+    "soil_level": 1.9438387271
+  },
+  {
+    "water_level": 3.539148407,
+    "ph_level": 1.5824578469,
+    "soil_level": 4.7491118982
+  },
+  {
+    "water_level": 2.7785909555,
+    "ph_level": 4.330918198,
+    "soil_level": 2.7076857398
+  },
+  {
+    "water_level": 2.3673171276,
+    "ph_level": 3.9308666767,
+    "soil_level": 2.3873866967
+  },
+  {
+    "water_level": 2.7079403354,
+    "ph_level": 0.8685142333,
+    "soil_level": 2.0635520328
+  },
+  {
+    "water_level": 4.9598787134,
+    "ph_level": 1.6997255849,
+    "soil_level": 1.7813939318
+  },
+  {
+    "water_level": 0.9907057979,
+    "ph_level": 1.7290801687,
+    "soil_level": 2.9290551671
+  },
+  {
+    "water_level": 2.1001790316,
+    "ph_level": 1.0254628104,
+    "soil_level": 3.4280585087
+  },
+  {
+    "water_level": 4.1513815421,
+    "ph_level": 0.2499826523,
+    "soil_level": 3.9635059686
+  },
+  {
+    "water_level": 3.3682648427,
+    "ph_level": 1.6238066845,
+    "soil_level": 0.3933616232
+  },
+  {
+    "water_level": 2.6145696791,
+    "ph_level": 3.5694607987,
+    "soil_level": 3.1908362771
+  },
+  {
+    "water_level": 0.1405187634,
+    "ph_level": 3.6387807415,
+    "soil_level": 0.5208445905
+  },
+  {
+    "water_level": 4.6806166873,
+    "ph_level": 4.2363958128,
+    "soil_level": 4.102375842
+  },
+  {
+    "water_level": 0.2816684585,
+    "ph_level": 4.6731283258,
+    "soil_level": 4.4787728508
+  },
+  {
+    "water_level": 2.4872734674,
+    "ph_level": 4.6247061529,
+    "soil_level": 1.3490282083
+  },
+  {
+    "water_level": 1.1348833232,
+    "ph_level": 0.0568905978,
+    "soil_level": 3.7603854251
+  },
+  {
+    "water_level": 0.7580900916,
+    "ph_level": 1.0090085753,
+    "soil_level": 4.3483211108
+  },
+  {
+    "water_level": 2.2440478077,
+    "ph_level": 0.6787976764,
+    "soil_level": 1.8810947239
+  },
+  {
+    "water_level": 1.7413710069,
+    "ph_level": 3.0564574718,
+    "soil_level": 4.6135350563
+  },
+  {
+    "water_level": 1.9335301483,
+    "ph_level": 2.2430810734,
+    "soil_level": 4.9597786477
+  },
+  {
+    "water_level": 3.7341830141,
+    "ph_level": 4.7582141932,
+    "soil_level": 2.5136596168
+  },
+  {
+    "water_level": 2.4988188154,
+    "ph_level": 2.3323204084,
+    "soil_level": 3.1931542373
+  },
+  {
+    "water_level": 0.2753746938,
+    "ph_level": 3.9762432189,
+    "soil_level": 1.317536836
+  },
+  {
+    "water_level": 0.6331109129,
+    "ph_level": 0.4332768862,
+    "soil_level": 3.5484929609
+  },
+  {
+    "water_level": 1.1941137211,
+    "ph_level": 4.2077385475,
+    "soil_level": 1.5053473525
+  },
+  {
+    "water_level": 0.7370612504,
+    "ph_level": 0.1789298685,
+    "soil_level": 4.0528307571
+  },
+  {
+    "water_level": 2.7279363606,
+    "ph_level": 0.8371976714,
+    "soil_level": 0.3288409129
+  },
+  {
+    "water_level": 0.3059977889,
+    "ph_level": 1.593400486,
+    "soil_level": 3.197264363
+  },
+  {
+    "water_level": 1.1224829899,
+    "ph_level": 1.4686871408,
+    "soil_level": 0.7244605307
+  },
+  {
+    "water_level": 4.4025399965,
+    "ph_level": 1.3132698002,
+    "soil_level": 1.446812635
+  },
+  {
+    "water_level": 0.5648760702,
+    "ph_level": 2.7942147383,
+    "soil_level": 3.3593626896
+  },
+  {
+    "water_level": 1.8149356889,
+    "ph_level": 4.7791275329,
+    "soil_level": 2.2194165053
+  },
+  {
+    "water_level": 1.3644343543,
+    "ph_level": 0.2884771003,
+    "soil_level": 3.850624791
+  },
+  {
+    "water_level": 2.0226506394,
+    "ph_level": 0.1385258637,
+    "soil_level": 3.4420422685
+  },
+  {
+    "water_level": 2.3739853016,
+    "ph_level": 3.9754232229,
+    "soil_level": 3.112507509
+  },
+  {
+    "water_level": 0.3982675879,
+    "ph_level": 2.0536532831,
+    "soil_level": 0.9228711143
+  },
+  {
+    "water_level": 1.9602371494,
+    "ph_level": 4.7505293009,
+    "soil_level": 0.7820143852
+  },
+  {
+    "water_level": 2.8615881422,
+    "ph_level": 1.638876381,
+    "soil_level": 4.9646146164
+  },
+  {
+    "water_level": 0.1684159728,
+    "ph_level": 0.3743586239,
+    "soil_level": 4.0058310497
+  },
+  {
+    "water_level": 2.7750096712,
+    "ph_level": 4.6994635606,
+    "soil_level": 1.915864333
+  },
+  {
+    "water_level": 2.8432721848,
+    "ph_level": 3.2730145798,
+    "soil_level": 0.3167618451
+  },
+  {
+    "water_level": 1.6404978986,
+    "ph_level": 0.7472419453,
+    "soil_level": 0.1402856105
+  },
+  {
+    "water_level": 4.5816644553,
+    "ph_level": 0.5167773959,
+    "soil_level": 3.995971956
+  },
+  {
+    "water_level": 1.9348694557,
+    "ph_level": 0.2849052268,
+    "soil_level": 3.7469614085
+  },
+  {
+    "water_level": 0.6612975201,
+    "ph_level": 0.0402601047,
+    "soil_level": 1.5258236797
+  },
+  {
+    "water_level": 4.464301121,
+    "ph_level": 0.6966733912,
+    "soil_level": 3.083247783
+  },
+  {
+    "water_level": 2.9880890689,
+    "ph_level": 0.6392225813,
+    "soil_level": 2.5437122439
+  },
+  {
+    "water_level": 1.5923271965,
+    "ph_level": 0.7476441486,
+    "soil_level": 0.2717820107
+  },
+  {
+    "water_level": 1.4096480498,
+    "ph_level": 1.3157106864,
+    "soil_level": 0.9955816186
+  },
+  {
+    "water_level": 4.5623257811,
+    "ph_level": 4.0199583398,
+    "soil_level": 0.4453975963
+  },
+  {
+    "water_level": 1.1197953381,
+    "ph_level": 1.9305616793,
+    "soil_level": 2.1765447068
+  },
+  {
+    "water_level": 0.9022387196,
+    "ph_level": 4.8557839116,
+    "soil_level": 0.4219943544
+  },
+  {
+    "water_level": 4.295770716,
+    "ph_level": 2.0286319842,
+    "soil_level": 1.3073853274
+  },
+  {
+    "water_level": 1.448451198,
+    "ph_level": 3.3395692379,
+    "soil_level": 1.2734301318
+  },
+  {
+    "water_level": 4.74469384,
+    "ph_level": 3.7663887898,
+    "soil_level": 2.8288984541
+  },
+  {
+    "water_level": 4.7523007132,
+    "ph_level": 0.9675602685,
+    "soil_level": 3.7559183899
+  },
+  {
+    "water_level": 4.8820364239,
+    "ph_level": 4.3661881059,
+    "soil_level": 4.117172306
+  },
+  {
+    "water_level": 4.9882567283,
+    "ph_level": 0.9988616245,
+    "soil_level": 2.8179315019
+  },
+  {
+    "water_level": 2.0287938446,
+    "ph_level": 0.5426606654,
+    "soil_level": 3.782778637
+  },
+  {
+    "water_level": 1.0430949693,
+    "ph_level": 1.8406350719,
+    "soil_level": 3.6442190579
+  },
+  {
+    "water_level": 2.0147921736,
+    "ph_level": 4.1189235925,
+    "soil_level": 1.6276981885
+  },
+  {
+    "water_level": 2.5242369832,
+    "ph_level": 0.4960529415,
+    "soil_level": 0.0073884312
+  },
+  {
+    "water_level": 4.0504349244,
+    "ph_level": 2.1510009731,
+    "soil_level": 2.6684676123
+  },
+  {
+    "water_level": 0.992544664,
+    "ph_level": 2.3060644824,
+    "soil_level": 2.5520979428
+  },
+  {
+    "water_level": 3.7083345465,
+    "ph_level": 4.0975704886,
+    "soil_level": 1.0648139276
+  },
+  {
+    "water_level": 0.8146714801,
+    "ph_level": 3.5893258287,
+    "soil_level": 2.04359356
+  },
+  {
+    "water_level": 4.7498225655,
+    "ph_level": 4.1097157794,
+    "soil_level": 4.3759506074
+  },
+  {
+    "water_level": 2.8109989185,
+    "ph_level": 2.9065925802,
+    "soil_level": 1.7325555138
+  },
+  {
+    "water_level": 1.5657522733,
+    "ph_level": 4.9249955095,
+    "soil_level": 0.2097940334
+  },
+  {
+    "water_level": 3.4256959512,
+    "ph_level": 3.7763514874,
+    "soil_level": 4.9871232771
+  },
+  {
+    "water_level": 1.7637209497,
+    "ph_level": 0.2737959223,
+    "soil_level": 4.5040539036
+  },
+  {
+    "water_level": 0.163532592,
+    "ph_level": 2.9722278619,
+    "soil_level": 2.0922263629
+  },
+  {
+    "water_level": 3.9183792807,
+    "ph_level": 1.8025303011,
+    "soil_level": 1.9743052848
+  },
+  {
+    "water_level": 4.8222962018,
+    "ph_level": 4.4600266753,
+    "soil_level": 3.5131212203
+  },
+  {
+    "water_level": 0.3113800509,
+    "ph_level": 3.1442772028,
+    "soil_level": 0.1502400769
+  },
+  {
+    "water_level": 1.1997232178,
+    "ph_level": 4.655623508,
+    "soil_level": 1.4432554389
+  },
+  {
+    "water_level": 4.1967959197,
+    "ph_level": 2.753988073,
+    "soil_level": 3.0448937769
+  },
+  {
+    "water_level": 4.2914957278,
+    "ph_level": 0.9913682415,
+    "soil_level": 0.6980304557
+  },
+  {
+    "water_level": 1.1650346615,
+    "ph_level": 2.5427864046,
+    "soil_level": 0.0409468635
+  },
+  {
+    "water_level": 4.860761016,
+    "ph_level": 3.1091492289,
+    "soil_level": 2.4950907693
+  },
+  {
+    "water_level": 4.1450950962,
+    "ph_level": 1.2772247359,
+    "soil_level": 2.7999234045
+  },
+  {
+    "water_level": 0.4524300405,
+    "ph_level": 1.4570113336,
+    "soil_level": 3.2000956998
+  },
+  {
+    "water_level": 0.5216852331,
+    "ph_level": 1.3736879512,
+    "soil_level": 2.4231813536
+  },
+  {
+    "water_level": 2.9903656626,
+    "ph_level": 3.8414736084,
+    "soil_level": 4.0385852707
+  },
+  {
+    "water_level": 3.3449024772,
+    "ph_level": 1.0618966521,
+    "soil_level": 3.4784710849
+  },
+  {
+    "water_level": 1.3627906583,
+    "ph_level": 1.0481693486,
+    "soil_level": 1.6890594388
+  },
+  {
+    "water_level": 0.5047407036,
+    "ph_level": 1.7583805106,
+    "soil_level": 3.6355913981
+  },
+  {
+    "water_level": 2.2551476234,
+    "ph_level": 1.8460571772,
+    "soil_level": 3.186462305
+  },
+  {
+    "water_level": 0.532038689,
+    "ph_level": 3.191931631,
+    "soil_level": 3.2981072633
+  },
+  {
+    "water_level": 4.0749070459,
+    "ph_level": 4.820333884,
+    "soil_level": 4.6043472106
+  },
+  {
+    "water_level": 2.5093214596,
+    "ph_level": 3.2616306286,
+    "soil_level": 2.1045916603
+  },
+  {
+    "water_level": 4.6722170023,
+    "ph_level": 3.3267106002,
+    "soil_level": 0.052109019
+  },
+  {
+    "water_level": 1.036348414,
+    "ph_level": 2.9758770747,
+    "soil_level": 1.4938717762
+  },
+  {
+    "water_level": 2.8292639848,
+    "ph_level": 2.4700365414,
+    "soil_level": 4.7870402204
+  },
+  {
+    "water_level": 2.0091394422,
+    "ph_level": 2.7507813915,
+    "soil_level": 3.2373462023
+  },
+  {
+    "water_level": 3.1031175115,
+    "ph_level": 2.5274230573,
+    "soil_level": 2.5995825176
+  },
+  {
+    "water_level": 3.2401512489,
+    "ph_level": 4.1580406167,
+    "soil_level": 2.5914129809
+  },
+  {
+    "water_level": 1.6014414237,
+    "ph_level": 3.383963002,
+    "soil_level": 0.7327927133
+  },
+  {
+    "water_level": 1.9659202373,
+    "ph_level": 2.1655445621,
+    "soil_level": 2.0814995967
+  },
+  {
+    "water_level": 2.9201289104,
+    "ph_level": 0.9428445157,
+    "soil_level": 0.7763887726
+  },
+  {
+    "water_level": 4.8811724684,
+    "ph_level": 4.7125465225,
+    "soil_level": 4.0507364168
+  },
+  {
+    "water_level": 3.7512813796,
+    "ph_level": 1.3186189734,
+    "soil_level": 2.3900169456
+  },
+  {
+    "water_level": 3.7353822775,
+    "ph_level": 3.4379295122,
+    "soil_level": 1.516035884
+  },
+  {
+    "water_level": 4.7006989097,
+    "ph_level": 2.3276729157,
+    "soil_level": 4.589057925
+  },
+  {
+    "water_level": 3.7946258035,
+    "ph_level": 1.5109599123,
+    "soil_level": 0.8562082987
+  },
+  {
+    "water_level": 4.2889516159,
+    "ph_level": 3.2463014626,
+    "soil_level": 0.1398606648
+  },
+  {
+    "water_level": 0.358815635,
+    "ph_level": 2.7970645456,
+    "soil_level": 0.7396838037
+  },
+  {
+    "water_level": 3.1483954579,
+    "ph_level": 1.4019688271,
+    "soil_level": 2.422434038
+  },
+  {
+    "water_level": 0.7460973493,
+    "ph_level": 0.9569740549,
+    "soil_level": 4.9457068019
+  },
+  {
+    "water_level": 0.5195629691,
+    "ph_level": 0.442226866,
+    "soil_level": 1.7105303009
+  },
+  {
+    "water_level": 0.2449021158,
+    "ph_level": 2.3787294393,
+    "soil_level": 2.7785714558
+  },
+  {
+    "water_level": 2.639424217,
+    "ph_level": 0.3366739429,
+    "soil_level": 0.3371366891
+  },
+  {
+    "water_level": 3.4982768225,
+    "ph_level": 0.3765270774,
+    "soil_level": 4.5053989475
+  },
+  {
+    "water_level": 0.3409392809,
+    "ph_level": 1.4101348685,
+    "soil_level": 0.838467355
+  },
+  {
+    "water_level": 4.3782627259,
+    "ph_level": 4.871383276,
+    "soil_level": 0.7843043246
+  },
+  {
+    "water_level": 2.1462412191,
+    "ph_level": 3.2791723569,
+    "soil_level": 0.8754220937
+  },
+  {
+    "water_level": 4.4317567732,
+    "ph_level": 0.6477690231,
+    "soil_level": 3.4839503707
+  },
+  {
+    "water_level": 2.3677629572,
+    "ph_level": 0.9913282941,
+    "soil_level": 2.5205062344
+  },
+  {
+    "water_level": 1.9738562416,
+    "ph_level": 0.513543913,
+    "soil_level": 1.9476786259
+  },
+  {
+    "water_level": 4.9579849378,
+    "ph_level": 2.186897569,
+    "soil_level": 3.0022020513
+  },
+  {
+    "water_level": 1.881070784,
+    "ph_level": 1.7005624409,
+    "soil_level": 3.8158559845
+  },
+  {
+    "water_level": 2.1281532618,
+    "ph_level": 2.7480717015,
+    "soil_level": 3.7846497081
+  },
+  {
+    "water_level": 4.0094193453,
+    "ph_level": 4.9633198627,
+    "soil_level": 2.1315612463
+  },
+  {
+    "water_level": 2.5477952208,
+    "ph_level": 3.4166068098,
+    "soil_level": 3.7681962816
+  },
+  {
+    "water_level": 1.370958907,
+    "ph_level": 4.9168531395,
+    "soil_level": 3.3174010555
+  },
+  {
+    "water_level": 2.2842598994,
+    "ph_level": 0.7983780662,
+    "soil_level": 2.0633069153
+  },
+  {
+    "water_level": 3.4496389181,
+    "ph_level": 0.0860267194,
+    "soil_level": 4.2157153838
+  },
+  {
+    "water_level": 2.9077051226,
+    "ph_level": 1.1667021395,
+    "soil_level": 4.6525303478
+  },
+  {
+    "water_level": 1.1878482345,
+    "ph_level": 2.42790272,
+    "soil_level": 3.0748566585
+  },
+  {
+    "water_level": 1.203130975,
+    "ph_level": 0.9091978711,
+    "soil_level": 1.1252190859
+  },
+  {
+    "water_level": 0.0148267369,
+    "ph_level": 3.7528859372,
+    "soil_level": 1.2100930515
+  },
+  {
+    "water_level": 1.567672381,
+    "ph_level": 4.2923379499,
+    "soil_level": 2.1826147316
+  },
+  {
+    "water_level": 0.7172946279,
+    "ph_level": 2.70249499,
+    "soil_level": 3.905632926
+  },
+  {
+    "water_level": 1.3916236384,
+    "ph_level": 3.2364420517,
+    "soil_level": 0.7602276645
+  },
+  {
+    "water_level": 4.5669742875,
+    "ph_level": 4.7250503335,
+    "soil_level": 3.5444233165
+  },
+  {
+    "water_level": 2.5672659985,
+    "ph_level": 4.2094065974,
+    "soil_level": 1.1489203146
+  },
+  {
+    "water_level": 0.9917467429,
+    "ph_level": 2.2777922046,
+    "soil_level": 1.779625044
+  },
+  {
+    "water_level": 0.0029835855,
+    "ph_level": 4.919586568,
+    "soil_level": 0.8342503221
+  },
+  {
+    "water_level": 0.3912276206,
+    "ph_level": 0.837935195,
+    "soil_level": 0.3782140385
+  },
+  {
+    "water_level": 2.130348262,
+    "ph_level": 3.7056605307,
+    "soil_level": 4.814591647
+  },
+  {
+    "water_level": 0.4412450988,
+    "ph_level": 2.5358257545,
+    "soil_level": 3.5520897105
+  },
+  {
+    "water_level": 0.2000281189,
+    "ph_level": 0.9205694825,
+    "soil_level": 0.2577112573
+  },
+  {
+    "water_level": 3.8084370469,
+    "ph_level": 3.1186132848,
+    "soil_level": 0.8706996051
+  },
+  {
+    "water_level": 0.1435061851,
+    "ph_level": 3.1352388019,
+    "soil_level": 0.8375972428
+  },
+  {
+    "water_level": 3.7144598472,
+    "ph_level": 2.6130093865,
+    "soil_level": 1.3506159566
+  },
+  {
+    "water_level": 3.4986555926,
+    "ph_level": 2.4674863699,
+    "soil_level": 4.0053017831
+  },
+  {
+    "water_level": 3.4772844952,
+    "ph_level": 3.409850326,
+    "soil_level": 4.5367463142
+  },
+  {
+    "water_level": 2.5317674865,
+    "ph_level": 4.5964709822,
+    "soil_level": 3.357820344
+  },
+  {
+    "water_level": 4.4475106309,
+    "ph_level": 3.0587985022,
+    "soil_level": 4.5162044587
+  },
+  {
+    "water_level": 2.229962759,
+    "ph_level": 0.2333780582,
+    "soil_level": 1.7622698475
+  },
+  {
+    "water_level": 2.5566784997,
+    "ph_level": 0.9942983692,
+    "soil_level": 4.1850628881
+  },
+  {
+    "water_level": 1.2803059623,
+    "ph_level": 2.9840914097,
+    "soil_level": 3.523637795
+  },
+  {
+    "water_level": 4.6761656698,
+    "ph_level": 4.0979254402,
+    "soil_level": 4.0072650741
+  },
+  {
+    "water_level": 3.1178545001,
+    "ph_level": 1.6847867803,
+    "soil_level": 4.5001071665
+  },
+  {
+    "water_level": 4.5652038622,
+    "ph_level": 2.687708704,
+    "soil_level": 4.290240654
+  },
+  {
+    "water_level": 0.2617307009,
+    "ph_level": 3.2993623673,
+    "soil_level": 0.2277262408
+  },
+  {
+    "water_level": 0.5474827487,
+    "ph_level": 4.8210812201,
+    "soil_level": 3.3401649583
+  },
+  {
+    "water_level": 3.4534914756,
+    "ph_level": 1.832726339,
+    "soil_level": 2.4097139167
+  },
+  {
+    "water_level": 2.9092542696,
+    "ph_level": 3.802652575,
+    "soil_level": 1.1646611268
+  },
+  {
+    "water_level": 0.3892436661,
+    "ph_level": 0.4076507863,
+    "soil_level": 3.1058148227
+  },
+  {
+    "water_level": 3.1509067001,
+    "ph_level": 1.6915744409,
+    "soil_level": 2.4914109711
+  },
+  {
+    "water_level": 2.6679784303,
+    "ph_level": 4.1861109642,
+    "soil_level": 0.0609139098
+  },
+  {
+    "water_level": 2.5095995793,
+    "ph_level": 4.7073798718,
+    "soil_level": 0.0701103168
+  },
+  {
+    "water_level": 1.2907464983,
+    "ph_level": 1.3924063589,
+    "soil_level": 3.7517063151
+  },
+  {
+    "water_level": 4.0312281529,
+    "ph_level": 3.266411367,
+    "soil_level": 4.0889007835
+  },
+  {
+    "water_level": 1.2923049934,
+    "ph_level": 0.2874872184,
+    "soil_level": 3.682561663
+  },
+  {
+    "water_level": 1.5507477767,
+    "ph_level": 4.1934462496,
+    "soil_level": 4.1854034147
+  },
+  {
+    "water_level": 0.731598097,
+    "ph_level": 0.5387256466,
+    "soil_level": 1.772952796
+  },
+  {
+    "water_level": 0.1860402095,
+    "ph_level": 1.158697421,
+    "soil_level": 2.9370717538
+  },
+  {
+    "water_level": 4.2542124801,
+    "ph_level": 0.1473129779,
+    "soil_level": 1.7804332658
+  },
+  {
+    "water_level": 1.7724985545,
+    "ph_level": 3.8121369258,
+    "soil_level": 3.6987182098
+  },
+  {
+    "water_level": 0.4032545677,
+    "ph_level": 1.0125265092,
+    "soil_level": 1.1604998046
+  },
+  {
+    "water_level": 2.3719878534,
+    "ph_level": 2.1819415136,
+    "soil_level": 4.6806866884
+  },
+  {
+    "water_level": 1.8346703135,
+    "ph_level": 3.7737941739,
+    "soil_level": 3.7990811315
+  },
+  {
+    "water_level": 2.2407600102,
+    "ph_level": 3.9881422894,
+    "soil_level": 1.4370942742
+  },
+  {
+    "water_level": 1.8456210825,
+    "ph_level": 3.1977442107,
+    "soil_level": 0.3130321968
+  },
+  {
+    "water_level": 3.0756256715,
+    "ph_level": 3.7156612197,
+    "soil_level": 0.7623148899
+  },
+  {
+    "water_level": 4.7160560164,
+    "ph_level": 4.9648052469,
+    "soil_level": 0.9128372253
+  },
+  {
+    "water_level": 4.6783851864,
+    "ph_level": 1.3385564805,
+    "soil_level": 2.5594202263
+  },
+  {
+    "water_level": 1.2924330912,
+    "ph_level": 1.4017177981,
+    "soil_level": 0.0838171533
+  },
+  {
+    "water_level": 4.2115678966,
+    "ph_level": 1.1235290875,
+    "soil_level": 1.0445565386
+  },
+  {
+    "water_level": 2.2377121585,
+    "ph_level": 0.0545353979,
+    "soil_level": 0.0022953649
+  },
+  {
+    "water_level": 1.2041468439,
+    "ph_level": 1.2584528027,
+    "soil_level": 2.0658741334
+  },
+  {
+    "water_level": 2.7716056205,
+    "ph_level": 0.627301712,
+    "soil_level": 0.3402363799
+  },
+  {
+    "water_level": 3.8900126571,
+    "ph_level": 3.4667528479,
+    "soil_level": 1.3803070113
+  },
+  {
+    "water_level": 4.8285095163,
+    "ph_level": 3.1123610941,
+    "soil_level": 3.6881420953
+  },
+  {
+    "water_level": 3.8852640528,
+    "ph_level": 3.8516259382,
+    "soil_level": 1.3655991371
+  },
+  {
+    "water_level": 4.511502203,
+    "ph_level": 3.7569219756,
+    "soil_level": 0.0476530025
+  },
+  {
+    "water_level": 3.2813249996,
+    "ph_level": 0.0409527701,
+    "soil_level": 4.2987756692
+  },
+  {
+    "water_level": 3.9552891793,
+    "ph_level": 1.8380817728,
+    "soil_level": 3.2863254134
+  },
+  {
+    "water_level": 0.9587325887,
+    "ph_level": 2.9840686712,
+    "soil_level": 3.1007067238
+  },
+  {
+    "water_level": 1.754439864,
+    "ph_level": 2.9986860936,
+    "soil_level": 3.4255651058
+  },
+  {
+    "water_level": 1.1367982639,
+    "ph_level": 2.4835341703,
+    "soil_level": 1.9656785494
+  },
+  {
+    "water_level": 4.4278791345,
+    "ph_level": 4.2363368355,
+    "soil_level": 4.1769997147
+  },
+  {
+    "water_level": 2.3029142975,
+    "ph_level": 3.8719703999,
+    "soil_level": 3.2711471578
+  },
+  {
+    "water_level": 4.8361239566,
+    "ph_level": 3.6581807621,
+    "soil_level": 2.2234028852
+  },
+  {
+    "water_level": 0.273291883,
+    "ph_level": 1.5852006409,
+    "soil_level": 3.9815221036
+  },
+  {
+    "water_level": 3.1665366863,
+    "ph_level": 1.6122750731,
+    "soil_level": 2.4340818443
+  },
+  {
+    "water_level": 0.4502282571,
+    "ph_level": 3.8527158279,
+    "soil_level": 3.0046728277
+  },
+  {
+    "water_level": 2.6936308177,
+    "ph_level": 0.0556525367,
+    "soil_level": 2.4233887352
+  },
+  {
+    "water_level": 0.3577989504,
+    "ph_level": 1.4285407003,
+    "soil_level": 2.7717061296
+  },
+  {
+    "water_level": 0.7262282053,
+    "ph_level": 2.2393818434,
+    "soil_level": 1.4914492374
+  },
+  {
+    "water_level": 1.7504611195,
+    "ph_level": 3.9207127305,
+    "soil_level": 4.0825714532
+  },
+  {
+    "water_level": 4.8216213212,
+    "ph_level": 2.9807813866,
+    "soil_level": 1.1400639557
+  },
+  {
+    "water_level": 1.8483672124,
+    "ph_level": 4.4493601105,
+    "soil_level": 2.9644727729
+  },
+  {
+    "water_level": 0.6572095673,
+    "ph_level": 0.8114272562,
+    "soil_level": 3.3832034213
+  },
+  {
+    "water_level": 2.3530715754,
+    "ph_level": 2.7675408379,
+    "soil_level": 3.0923498164
+  },
+  {
+    "water_level": 4.2738811074,
+    "ph_level": 2.2104895618,
+    "soil_level": 0.7426679586
+  },
+  {
+    "water_level": 4.444974745,
+    "ph_level": 3.7950510105,
+    "soil_level": 2.6860919738
+  },
+  {
+    "water_level": 2.7326436126,
+    "ph_level": 2.2381847286,
+    "soil_level": 4.1487002362
+  },
+  {
+    "water_level": 0.5289347228,
+    "ph_level": 0.8010194935,
+    "soil_level": 1.4741060225
+  },
+  {
+    "water_level": 4.4805051072,
+    "ph_level": 3.845055527,
+    "soil_level": 1.7965413816
+  },
+  {
+    "water_level": 3.3534957373,
+    "ph_level": 4.1963450034,
+    "soil_level": 0.7046199977
+  },
+  {
+    "water_level": 2.7746154108,
+    "ph_level": 4.6423771285,
+    "soil_level": 1.6987937244
+  },
+  {
+    "water_level": 0.2378986355,
+    "ph_level": 3.9922143604,
+    "soil_level": 1.3320830321
+  },
+  {
+    "water_level": 3.7212490417,
+    "ph_level": 2.6813184889,
+    "soil_level": 4.2727469629
+  },
+  {
+    "water_level": 2.2380292251,
+    "ph_level": 1.8293633183,
+    "soil_level": 1.9602923011
+  },
+  {
+    "water_level": 4.0197579169,
+    "ph_level": 4.8988225855,
+    "soil_level": 0.1292756555
+  },
+  {
+    "water_level": 4.7026363005,
+    "ph_level": 4.7677152817,
+    "soil_level": 3.2069937063
+  },
+  {
+    "water_level": 4.7209871794,
+    "ph_level": 0.7128054056,
+    "soil_level": 3.5769090454
+  },
+  {
+    "water_level": 4.6312111299,
+    "ph_level": 3.8944054702,
+    "soil_level": 3.201579456
+  },
+  {
+    "water_level": 4.6414797695,
+    "ph_level": 3.5856496348,
+    "soil_level": 0.4334874719
+  },
+  {
+    "water_level": 1.1502694707,
+    "ph_level": 2.6338724061,
+    "soil_level": 0.259993193
+  },
+  {
+    "water_level": 2.4801306087,
+    "ph_level": 2.6597437788,
+    "soil_level": 0.4644789141
+  },
+  {
+    "water_level": 1.3375252395,
+    "ph_level": 2.7916611695,
+    "soil_level": 4.1893356386
+  },
+  {
+    "water_level": 2.6453873451,
+    "ph_level": 3.0179702728,
+    "soil_level": 3.9859717184
+  },
+  {
+    "water_level": 3.3386343467,
+    "ph_level": 3.1783883346,
+    "soil_level": 1.7435000073
+  },
+  {
+    "water_level": 2.2437336126,
+    "ph_level": 3.3914485393,
+    "soil_level": 3.2231748959
+  },
+  {
+    "water_level": 1.0872116916,
+    "ph_level": 3.0987820325,
+    "soil_level": 2.5912579867
+  },
+  {
+    "water_level": 0.258848456,
+    "ph_level": 3.9678216269,
+    "soil_level": 3.5506148083
+  },
+  {
+    "water_level": 4.3725404393,
+    "ph_level": 3.2966897195,
+    "soil_level": 0.3152477738
+  },
+  {
+    "water_level": 0.2710214982,
+    "ph_level": 1.1488125325,
+    "soil_level": 2.2857396484
+  },
+  {
+    "water_level": 3.2151120054,
+    "ph_level": 3.0524111563,
+    "soil_level": 1.796727523
+  },
+  {
+    "water_level": 4.1700025457,
+    "ph_level": 3.952789051,
+    "soil_level": 3.6259862306
+  },
+  {
+    "water_level": 0.9222670978,
+    "ph_level": 3.3235584629,
+    "soil_level": 2.773165947
+  },
+  {
+    "water_level": 4.4675340026,
+    "ph_level": 1.7870680049,
+    "soil_level": 3.4946175647
+  },
+  {
+    "water_level": 2.159127727,
+    "ph_level": 1.5475670561,
+    "soil_level": 0.099976764
+  },
+  {
+    "water_level": 2.110543696,
+    "ph_level": 3.5886726165,
+    "soil_level": 0.4841637208
+  },
+  {
+    "water_level": 0.7036881232,
+    "ph_level": 4.87031185,
+    "soil_level": 2.901999469
+  },
+  {
+    "water_level": 2.49083664,
+    "ph_level": 3.2998910392,
+    "soil_level": 0.140821051
+  },
+  {
+    "water_level": 2.0663811621,
+    "ph_level": 3.9188752418,
+    "soil_level": 3.623344724
+  },
+  {
+    "water_level": 2.4575285349,
+    "ph_level": 1.4369821979,
+    "soil_level": 4.1949140204
+  },
+  {
+    "water_level": 2.5194161495,
+    "ph_level": 4.505156327,
+    "soil_level": 1.3883374194
+  },
+  {
+    "water_level": 2.3515400624,
+    "ph_level": 3.8093432218,
+    "soil_level": 1.4596146904
+  },
+  {
+    "water_level": 4.4457230385,
+    "ph_level": 1.0220132952,
+    "soil_level": 3.1528867912
+  },
+  {
+    "water_level": 0.2211473451,
+    "ph_level": 3.1216093828,
+    "soil_level": 2.1730367462
+  },
+  {
+    "water_level": 0.3497297033,
+    "ph_level": 4.5723215395,
+    "soil_level": 1.4418150131
+  },
+  {
+    "water_level": 1.7323776792,
+    "ph_level": 2.5976899811,
+    "soil_level": 3.3560128166
+  },
+  {
+    "water_level": 3.1287094677,
+    "ph_level": 3.1729011455,
+    "soil_level": 0.0578214972
+  },
+  {
+    "water_level": 3.0311642707,
+    "ph_level": 2.6974992022,
+    "soil_level": 2.7164526373
+  },
+  {
+    "water_level": 3.390198548,
+    "ph_level": 0.9385000189,
+    "soil_level": 1.457526044
+  },
+  {
+    "water_level": 1.8580099304,
+    "ph_level": 1.1264165048,
+    "soil_level": 0.0189654851
+  },
+  {
+    "water_level": 1.387156245,
+    "ph_level": 4.941005241,
+    "soil_level": 3.0531732916
+  },
+  {
+    "water_level": 2.2630914292,
+    "ph_level": 1.8445980644,
+    "soil_level": 3.7933233144
+  },
+  {
+    "water_level": 3.419159375,
+    "ph_level": 3.7293983546,
+    "soil_level": 2.002298227
+  },
+  {
+    "water_level": 3.6579035333,
+    "ph_level": 0.5972922889,
+    "soil_level": 4.0185467533
+  },
+  {
+    "water_level": 0.8253750853,
+    "ph_level": 0.3690497332,
+    "soil_level": 4.6901926656
+  },
+  {
+    "water_level": 2.004909758,
+    "ph_level": 2.1590215043,
+    "soil_level": 3.8477526315
+  },
+  {
+    "water_level": 2.927055151,
+    "ph_level": 1.2867947374,
+    "soil_level": 3.848419998
+  },
+  {
+    "water_level": 4.8318033229,
+    "ph_level": 1.6924694413,
+    "soil_level": 1.2623188186
+  },
+  {
+    "water_level": 1.0378812996,
+    "ph_level": 4.7911300435,
+    "soil_level": 0.8551059865
+  },
+  {
+    "water_level": 2.8259517193,
+    "ph_level": 4.0853672613,
+    "soil_level": 0.2394460091
+  },
+  {
+    "water_level": 3.0667627854,
+    "ph_level": 1.6608649676,
+    "soil_level": 4.1824272083
+  },
+  {
+    "water_level": 1.8472325159,
+    "ph_level": 0.491025774,
+    "soil_level": 3.8432130507
+  },
+  {
+    "water_level": 0.7967864925,
+    "ph_level": 1.6513731834,
+    "soil_level": 4.4029820018
+  },
+  {
+    "water_level": 0.8302917912,
+    "ph_level": 1.6519537821,
+    "soil_level": 4.217148717
+  },
+  {
+    "water_level": 4.7091834766,
+    "ph_level": 2.3641489415,
+    "soil_level": 1.5712218908
+  },
+  {
+    "water_level": 3.0347677177,
+    "ph_level": 4.0349941522,
+    "soil_level": 2.1251611881
+  },
+  {
+    "water_level": 4.7972048674,
+    "ph_level": 4.1605783957,
+    "soil_level": 3.9220550142
+  },
+  {
+    "water_level": 4.127592221,
+    "ph_level": 1.9992884585,
+    "soil_level": 0.5048121107
+  },
+  {
+    "water_level": 0.4454571911,
+    "ph_level": 1.0836328559,
+    "soil_level": 4.9559847508
+  },
+  {
+    "water_level": 1.3968435367,
+    "ph_level": 3.0453583441,
+    "soil_level": 2.5940416498
+  },
+  {
+    "water_level": 2.6173828298,
+    "ph_level": 2.3059922359,
+    "soil_level": 3.1833021459
+  },
+  {
+    "water_level": 2.3254906496,
+    "ph_level": 4.4960752843,
+    "soil_level": 2.2449912587
+  },
+  {
+    "water_level": 0.7520568511,
+    "ph_level": 3.7939297738,
+    "soil_level": 4.9056000851
+  },
+  {
+    "water_level": 4.6171050107,
+    "ph_level": 0.9575650957,
+    "soil_level": 4.9131901372
+  },
+  {
+    "water_level": 3.7680398634,
+    "ph_level": 0.5618364382,
+    "soil_level": 0.7266899347
+  },
+  {
+    "water_level": 2.3914995797,
+    "ph_level": 0.1839021863,
+    "soil_level": 4.9867500626
+  },
+  {
+    "water_level": 0.4081550421,
+    "ph_level": 2.9788204239,
+    "soil_level": 4.3838099143
+  },
+  {
+    "water_level": 1.4232439271,
+    "ph_level": 0.4746460341,
+    "soil_level": 0.6128913717
+  },
+  {
+    "water_level": 4.7318369635,
+    "ph_level": 3.1707623491,
+    "soil_level": 3.1113580172
+  },
+  {
+    "water_level": 2.7074363437,
+    "ph_level": 2.5164481028,
+    "soil_level": 3.0609204008
+  },
+  {
+    "water_level": 3.9097645413,
+    "ph_level": 2.8135953867,
+    "soil_level": 4.2980591009
+  },
+  {
+    "water_level": 0.5788487273,
+    "ph_level": 0.3964327733,
+    "soil_level": 4.2035080457
+  },
+  {
+    "water_level": 1.208328209,
+    "ph_level": 0.038059281,
+    "soil_level": 1.3957928066
+  },
+  {
+    "water_level": 3.5603822656,
+    "ph_level": 3.6479377903,
+    "soil_level": 1.5811744766
+  },
+  {
+    "water_level": 3.2640933613,
+    "ph_level": 1.2034272923,
+    "soil_level": 1.9868049035
+  },
+  {
+    "water_level": 2.4855487037,
+    "ph_level": 0.8349639647,
+    "soil_level": 1.5149482169
+  },
+  {
+    "water_level": 0.3105023365,
+    "ph_level": 0.1568628967,
+    "soil_level": 0.6997202701
+  },
+  {
+    "water_level": 0.8755049862,
+    "ph_level": 2.0001355922,
+    "soil_level": 1.5552916991
+  },
+  {
+    "water_level": 4.2035168881,
+    "ph_level": 4.315956865,
+    "soil_level": 2.5874999597
+  },
+  {
+    "water_level": 0.1807785638,
+    "ph_level": 0.7870265203,
+    "soil_level": 0.7455666263
+  },
+  {
+    "water_level": 4.2859206332,
+    "ph_level": 0.577462519,
+    "soil_level": 2.6359205791
+  },
+  {
+    "water_level": 0.949123877,
+    "ph_level": 3.1362471666,
+    "soil_level": 1.0455492532
+  },
+  {
+    "water_level": 0.9781684109,
+    "ph_level": 4.9531162614,
+    "soil_level": 3.0536688886
+  },
+  {
+    "water_level": 0.3109372042,
+    "ph_level": 3.938151757,
+    "soil_level": 4.7642982381
+  },
+  {
+    "water_level": 3.0982626413,
+    "ph_level": 4.9979875339,
+    "soil_level": 4.1406239662
+  },
+  {
+    "water_level": 0.0767874705,
+    "ph_level": 2.714300599,
+    "soil_level": 0.8719684977
+  },
+  {
+    "water_level": 2.3476723639,
+    "ph_level": 4.279074924,
+    "soil_level": 1.1036047942
+  },
+  {
+    "water_level": 2.1550447528,
+    "ph_level": 1.9927105153,
+    "soil_level": 1.4321529981
+  },
+  {
+    "water_level": 1.9479513053,
+    "ph_level": 0.7614947776,
+    "soil_level": 3.8668754174
+  },
+  {
+    "water_level": 1.9977999294,
+    "ph_level": 0.3084562619,
+    "soil_level": 3.113932345
+  },
+  {
+    "water_level": 1.821662616,
+    "ph_level": 2.5492638128,
+    "soil_level": 4.960568545
+  },
+  {
+    "water_level": 1.0828289376,
+    "ph_level": 0.696881204,
+    "soil_level": 3.2639248236
+  },
+  {
+    "water_level": 0.8058546521,
+    "ph_level": 3.33650515,
+    "soil_level": 4.986297071
+  },
+  {
+    "water_level": 1.8858245519,
+    "ph_level": 1.0756197241,
+    "soil_level": 2.8442328912
+  },
+  {
+    "water_level": 2.7993987578,
+    "ph_level": 0.0648806384,
+    "soil_level": 0.2060692716
+  },
+  {
+    "water_level": 4.6511088003,
+    "ph_level": 0.6726207494,
+    "soil_level": 1.2198703155
+  },
+  {
+    "water_level": 3.3170329348,
+    "ph_level": 2.2876162435,
+    "soil_level": 4.6577256065
+  },
+  {
+    "water_level": 3.5906599715,
+    "ph_level": 0.5320090372,
+    "soil_level": 4.9146579635
+  },
+  {
+    "water_level": 4.5198230744,
+    "ph_level": 0.2430469825,
+    "soil_level": 0.2502585744
+  },
+  {
+    "water_level": 1.3422919684,
+    "ph_level": 3.7836905246,
+    "soil_level": 0.6295535781
+  },
+  {
+    "water_level": 1.2973994643,
+    "ph_level": 2.3459395669,
+    "soil_level": 3.1755978733
+  },
+  {
+    "water_level": 4.6674351226,
+    "ph_level": 4.7403503174,
+    "soil_level": 0.1683603449
+  },
+  {
+    "water_level": 1.2444025404,
+    "ph_level": 1.9073839565,
+    "soil_level": 3.6689860283
+  },
+  {
+    "water_level": 3.7508535765,
+    "ph_level": 1.5871434289,
+    "soil_level": 3.9599504517
+  },
+  {
+    "water_level": 1.8932599131,
+    "ph_level": 0.2212801775,
+    "soil_level": 0.6254474302
+  }
+]
